@@ -1,0 +1,133 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "SEWA" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Products" [ref=e7] [cursor=pointer]:
+          - /url: /products
+        - link "Blog" [ref=e8] [cursor=pointer]:
+          - /url: /blog
+        - link "Agent" [ref=e9] [cursor=pointer]:
+          - /url: /agent
+        - link "Instagram" [ref=e10] [cursor=pointer]:
+          - /url: https://www.instagram.com
+  - main [ref=e11]:
+    - generic [ref=e14]:
+      - paragraph [ref=e15]: Toxin-Free · Charcoal-Free · Women-Made
+      - heading "Luxury Fragrance, Cleanly Crafted" [level=1] [ref=e16]:
+        - text: Luxury Fragrance,
+        - text: Cleanly Crafted
+      - paragraph [ref=e17]: Charcoal-free luxury incense made with high-quality natural botanicals. Crafted by women artisans — 50% more fragrance, less smoke, and 100% plastic-free. Phthalate-free, toxin-free, and uncompromisingly premium.
+      - generic [ref=e18]:
+        - link "Explore Products" [ref=e19] [cursor=pointer]:
+          - /url: /products
+        - link "Our Story" [ref=e20] [cursor=pointer]:
+          - /url: /blog
+    - generic [ref=e24]:
+      - generic [ref=e25]:
+        - heading "Our Collections" [level=2] [ref=e26]
+        - paragraph [ref=e27]: Luxury fragrances crafted from nature — designed for the modern, conscious home
+      - generic [ref=e28]:
+        - link "🪔 Incense Sticks" [ref=e29] [cursor=pointer]:
+          - /url: /products#incense-sticks
+          - generic [ref=e31]: 🪔
+          - heading "Incense Sticks" [level=3] [ref=e32]
+        - link "🔺 Cones" [ref=e33] [cursor=pointer]:
+          - /url: /products#cones
+          - generic [ref=e35]: 🔺
+          - heading "Cones" [level=3] [ref=e36]
+        - link "🌿 Bambooless Sticks" [ref=e37] [cursor=pointer]:
+          - /url: /products#bambooless-sticks
+          - generic [ref=e39]: 🌿
+          - heading "Bambooless Sticks" [level=3] [ref=e40]
+        - link "🕯️ Candles" [ref=e41] [cursor=pointer]:
+          - /url: /products#candles
+          - generic [ref=e43]: 🕯️
+          - heading "Candles" [level=3] [ref=e44]
+        - link "💧 Diffuser Oils" [ref=e45] [cursor=pointer]:
+          - /url: /products#diffuser-oils
+          - generic [ref=e47]: 💧
+          - heading "Diffuser Oils" [level=3] [ref=e48]
+        - link "🏺 Reed Diffusers" [ref=e49] [cursor=pointer]:
+          - /url: /products#reed-diffusers
+          - generic [ref=e51]: 🏺
+          - heading "Reed Diffusers" [level=3] [ref=e52]
+        - link "✨ Camphor" [ref=e53] [cursor=pointer]:
+          - /url: /products#camphor
+          - generic [ref=e55]: ✨
+          - heading "Camphor" [level=3] [ref=e56]
+    - generic [ref=e58]:
+      - generic [ref=e59]:
+        - heading "What Makes SEWA Different" [level=2] [ref=e60]
+        - paragraph [ref=e61]: More than incense — it's luxury that respects you and the planet
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - generic [ref=e65]: 🌸
+          - heading "Charcoal-Free & Clean" [level=3] [ref=e66]
+          - paragraph [ref=e67]: No charcoal, no synthetic binders — just pure, safe burning. High-quality natural botanicals for the cleanest incense experience.
+        - generic [ref=e68]:
+          - generic [ref=e70]: ✨
+          - heading "50% More Fragrance" [level=3] [ref=e71]
+          - paragraph [ref=e72]: Curated with premium essential oils for enhanced fragrance diffusion. Less smoke, more aroma — the luxury difference you can feel.
+        - generic [ref=e73]:
+          - generic [ref=e75]: 👩‍🎨
+          - heading "Women Empowerment" [level=3] [ref=e76]
+          - paragraph [ref=e77]: Every SEWA product is handcrafted by women artisans, creating meaningful employment and fostering financial independence.
+        - generic [ref=e78]:
+          - generic [ref=e80]: 🌍
+          - heading "100% Plastic-Free" [level=3] [ref=e81]
+          - paragraph [ref=e82]: Our packaging contains zero plastic. From the box to the wrapping — designed for sustainability without compromising elegance.
+        - generic [ref=e83]:
+          - generic [ref=e85]: 🛡️
+          - heading "Phthalate-Free & Toxin-Free" [level=3] [ref=e86]
+          - paragraph [ref=e87]: No phthalates, no harmful chemicals, no toxins. Safe for your family, your pets, and your indoor air quality.
+        - generic [ref=e88]:
+          - generic [ref=e90]: 🇮🇳
+          - heading "Premium Indian Craftsmanship" [level=3] [ref=e91]
+          - paragraph [ref=e92]: Luxury fragrances rooted in India's rich aromatic heritage. Premium materials, modern innovation, uncompromising quality.
+    - generic [ref=e94]:
+      - heading "Find Us Everywhere" [level=2] [ref=e95]
+      - paragraph [ref=e96]: SEWA luxury fragrances are available across all major platforms
+      - generic [ref=e97]:
+        - generic [ref=e98]: Amazon
+        - generic [ref=e99]: Blinkit
+        - generic [ref=e100]: Ajio
+        - generic [ref=e101]: Zepto
+        - generic [ref=e102]: Reliance Retail
+        - generic [ref=e103]: Flipkart
+        - generic [ref=e104]: Meesho
+    - generic [ref=e106]:
+      - heading "Burn Luxury. Breathe Responsibility." [level=2] [ref=e107]
+      - paragraph [ref=e108]: Experience the SEWA difference — charcoal-free, toxin-free, and crafted by women who care.
+      - generic [ref=e109]:
+        - link "Explore Products" [ref=e110] [cursor=pointer]:
+          - /url: /products
+        - link "Shop on Amazon" [ref=e111] [cursor=pointer]:
+          - /url: https://www.amazon.in
+  - contentinfo [ref=e112]:
+    - generic [ref=e113]:
+      - generic [ref=e114]:
+        - heading "SEWA" [level=3] [ref=e115]
+        - paragraph [ref=e116]: Sacred fragrances for your space. Premium incense, candles, diffusers, and more — crafted to elevate every moment.
+      - generic [ref=e117]:
+        - heading "Quick Links" [level=4] [ref=e118]
+        - generic [ref=e119]:
+          - link "Products" [ref=e120] [cursor=pointer]:
+            - /url: /products
+          - link "Blog" [ref=e121] [cursor=pointer]:
+            - /url: /blog
+          - link "Amazon Store" [ref=e122] [cursor=pointer]:
+            - /url: https://www.amazon.in
+      - generic [ref=e123]:
+        - heading "Find Us On" [level=4] [ref=e124]
+        - generic [ref=e125]:
+          - generic [ref=e126]: Amazon
+          - generic [ref=e127]: Blinkit
+          - generic [ref=e128]: Zepto
+          - generic [ref=e129]: Ajio
+          - generic [ref=e130]: Reliance
+    - generic [ref=e131]: © 2026 SEWA. All rights reserved.
+  - alert [ref=e132]

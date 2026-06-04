@@ -1,0 +1,230 @@
+[     379ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[     495ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  171210ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  171289ms] [LOG] [Fast Refresh] done in 179ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  180964ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  181190ms] [LOG] [Fast Refresh] done in 328ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  190964ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  191090ms] [LOG] [Fast Refresh] done in 227ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  270732ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  270820ms] [LOG] [Fast Refresh] done in 188ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  290774ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  290841ms] [LOG] [Fast Refresh] done in 168ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  300707ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  300733ms] [LOG] [Fast Refresh] done in 168ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  328860ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  329797ms] [LOG] [Fast Refresh] done in 912ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  340411ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  340539ms] [LOG] [Fast Refresh] done in 230ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  350663ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  350684ms] [LOG] [Fast Refresh] done in 122ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  381037ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  381912ms] [LOG] [Fast Refresh] done in 975ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  382356ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  382420ms] [LOG] [Fast Refresh] done in 165ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  383212ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  383501ms] [LOG] [Fast Refresh] done in 392ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  383646ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  383702ms] [LOG] [Fast Refresh] done in 156ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  383901ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  384013ms] [LOG] [Fast Refresh] done in 218ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  384999ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  385096ms] [LOG] [Fast Refresh] done in 200ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  385263ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  385313ms] [LOG] [Fast Refresh] done in 151ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  385493ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  385603ms] [LOG] [Fast Refresh] done in 211ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  387171ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  387376ms] [LOG] [Fast Refresh] done in 306ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  388376ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  388523ms] [LOG] [Fast Refresh] done in 247ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  403680ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  404635ms] [LOG] [Fast Refresh] done in 124ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  404794ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  404879ms] [LOG] [Fast Refresh] done in 186ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  405692ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  405737ms] [LOG] [Fast Refresh] done in 147ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  406389ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  406419ms] [LOG] [Fast Refresh] done in 130ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  406711ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  406737ms] [LOG] [Fast Refresh] done in 127ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  406893ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  406954ms] [LOG] [Fast Refresh] done in 162ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  410372ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  410476ms] [LOG] [Fast Refresh] done in 206ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  414654ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  415120ms] [LOG] [Fast Refresh] done in 363ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  420393ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  420687ms] [LOG] [Fast Refresh] done in 395ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  425505ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  426320ms] [LOG] [Fast Refresh] done in 354ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  428088ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  428163ms] [LOG] [Fast Refresh] done in 176ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  432294ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  432427ms] [LOG] [Fast Refresh] done in 235ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  438908ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  439034ms] [LOG] [Fast Refresh] done in 179ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  439135ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  439186ms] [LOG] [Fast Refresh] done in 151ms @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  453775ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  453780ms] [ERROR] ./src/app/agent/page.tsx:425:11
+Expected '</', got ':'
+  423 |             ))}
+  424 |           </div>
+> 425 |         ) : activeIntel === "playbook" ? (
+      |           ^
+  426 |           <div className="max-h-[500px] overflow-y-auto p-4">
+  427 |             <PlaybookView />
+  428 |           </div>
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/agent/page.tsx [Client Component Browser]
+    ./src/app/agent/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/agent/page.tsx [Client Component SSR]
+    ./src/app/agent/page.tsx [Server Component] @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[  453857ms] [ERROR] ./src/app/agent/page.tsx:425:11
+Expected '</', got ':'
+  423 |             ))}
+  424 |           </div>
+> 425 |         ) : activeIntel === "playbook" ? (
+      |           ^
+  426 |           <div className="max-h-[500px] overflow-y-auto p-4">
+  427 |             <PlaybookView />
+  428 |           </div>
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/agent/page.tsx [Client Component Browser]
+    ./src/app/agent/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/agent/page.tsx [Client Component SSR]
+    ./src/app/agent/page.tsx [Server Component] @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[  453929ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  459130ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  459259ms] [ERROR] ./src/app/agent/page.tsx:425:11
+Expected '</', got ':'
+  423 |             ))}
+  424 |           </div>
+> 425 |         ) : activeIntel === "playbook" ? (
+      |           ^
+  426 |           <div className="max-h-[500px] overflow-y-auto p-4">
+  427 |             <PlaybookView />
+  428 |           </div>
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/agent/page.tsx [Client Component Browser]
+    ./src/app/agent/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/agent/page.tsx [Client Component SSR]
+    ./src/app/agent/page.tsx [Server Component] @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[  459260ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/api/agent?action=calendar:0
+[  459260ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/api/agent?action=creatives:0
+[  459260ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/api/agent?action=status:0
+[  459261ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/api/agent?action=queue:0
+[  459290ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/api/agent?action=gaps:0
+[  459290ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/api/agent?action=competitors:0
+[  459345ms] [ERROR] ./src/app/agent/page.tsx:425:11
+Expected '</', got ':'
+  423 |             ))}
+  424 |           </div>
+> 425 |         ) : activeIntel === "playbook" ? (
+      |           ^
+  426 |           <div className="max-h-[500px] overflow-y-auto p-4">
+  427 |             <PlaybookView />
+  428 |           </div>
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/agent/page.tsx [Client Component Browser]
+    ./src/app/agent/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/agent/page.tsx [Client Component SSR]
+    ./src/app/agent/page.tsx [Server Component] @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:3318
+[  459409ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1ybzpk2._.js:2477
+[  463877ms] [ERROR] Failed to load resource: the server responded with a status of 500 (Internal Server Error) @ http://localhost:3001/agent:0
+[  463995ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://localhost:3001/_next/static/chunks/node_modules_react-dom_0kla17-._.js:15305
+[  464071ms] Error: ./src/app/agent/page.tsx:425:11
+Expected '</', got ':'
+  423 |             ))}
+  424 |           </div>
+> 425 |         ) : activeIntel === "playbook" ? (
+      |           ^
+  426 |           <div className="max-h-[500px] overflow-y-auto p-4">
+  427 |             <PlaybookView />
+  428 |           </div>
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/agent/page.tsx [Client Component Browser]
+    ./src/app/agent/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/agent/page.tsx [Client Component SSR]
+    ./src/app/agent/page.tsx [Server Component]
+
+
+    at <unknown> (Error: ./src/app/agent/page.tsx:425:11)
+    at Object.getCompilationErrors (file:///Users/pranavparnami/development/mktg/node_modules/next/dist/server/dev/hot-reloader-turbopack.js:1186:59)
+    at DevBundlerService.getCompilationError (file:///Users/pranavparnami/development/mktg/node_modules/next/dist/server/lib/dev-bundler-service.js:44:55)
+    at DevServer.getCompilationError (file:///Users/pranavparnami/development/mktg/node_modules/next/dist/server/dev/next-dev-server.js:720:42)
+    at DevServer.findPageComponents (file:///Users/pranavparnami/development/mktg/node_modules/next/dist/server/dev/next-dev-server.js:690:43)
+    at async DevServer.renderErrorToResponseImpl (file:///Users/pranavparnami/development/mktg/node_modules/next/dist/server/base-server.js:1753:26)
+[  464069ms] [LOG] [HMR] connected @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[  464072ms] [ERROR] ./src/app/agent/page.tsx:425:11
+Expected '</', got ':'
+  423 |             ))}
+  424 |           </div>
+> 425 |         ) : activeIntel === "playbook" ? (
+      |           ^
+  426 |           <div className="max-h-[500px] overflow-y-auto p-4">
+  427 |             <PlaybookView />
+  428 |           </div>
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/agent/page.tsx [Client Component Browser]
+    ./src/app/agent/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/agent/page.tsx [Client Component SSR]
+    ./src/app/agent/page.tsx [Server Component] @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945
+[  464201ms] [LOG] [Fast Refresh] rebuilding @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1226
+[  464229ms] [ERROR] ./src/app/agent/page.tsx:425:11
+Expected '</', got ':'
+  423 |             ))}
+  424 |           </div>
+> 425 |         ) : activeIntel === "playbook" ? (
+      |           ^
+  426 |           <div className="max-h-[500px] overflow-y-auto p-4">
+  427 |             <PlaybookView />
+  428 |           </div>
+
+Parsing ecmascript source code failed
+
+Import traces:
+  Client Component Browser:
+    ./src/app/agent/page.tsx [Client Component Browser]
+    ./src/app/agent/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/agent/page.tsx [Client Component SSR]
+    ./src/app/agent/page.tsx [Server Component] @ http://localhost:3001/_next/static/chunks/node_modules_next_dist_1gdrd03._.js:1945

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><title>SEWA Reel — The Clean Switch</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#1a1a1a;display:flex;justify-content:center;align-items:center;min-height:100vh}
+.reel{width:360px;height:640px;position:relative;overflow:hidden;
+  background:#1a1a1a;border-radius:16px}
+.split{display:flex;height:60%}
+.left{flex:1;background:#2D1810;display:flex;flex-direction:column;align-items:center;
+  justify-content:flex-end;padding-bottom:30px;position:relative}
+.right{flex:1;background:linear-gradient(to bottom,#B45309,#8B6914);
+  display:flex;flex-direction:column;align-items:center;justify-content:flex-end;
+  padding-bottom:30px;position:relative;box-shadow:0 0 30px rgba(255,140,66,0.3)}
+.left-label,.right-label{position:absolute;top:20px;font-family:system-ui,sans-serif;
+  font-size:10px;color:rgba(255,255,255,0.5);text-transform:uppercase;letter-spacing:2px}
+.left-label{left:15px}
+.right-label{right:15px;color:rgba(255,255,255,0.8)}
+.bad-smoke{position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:60px;height:120px;
+  background:radial-gradient(ellipse at center,rgba(50,50,50,0.9) 0%,rgba(30,30,30,0.7) 40%,transparent 70%);
+  border-radius:50%;animation:badSmoke 3s infinite}
+@keyframes badSmoke{0%{opacity:0.8;transform:translateX(-50%) translateY(0) scale(1)}100%{opacity:0;transform:translateX(-50%) translateY(-80px) scale(1.5)}}
+.good-smoke{position:absolute;bottom:0;left:50%;transform:translateX(-50%);width:30px;height:80px;
+  background:radial-gradient(ellipse at center,rgba(255,255,255,0.3) 0%,rgba(255,240,220,0.15) 40%,transparent 70%);
+  border-radius:50%;animation:goodSmoke 3s infinite}
+@keyframes goodSmoke{0%{opacity:0.3;transform:translateX(-50%) translateY(0) scale(1)}100%{opacity:0;transform:translateX(-50%) translateY(-100px) scale(0.5)}}
+.glow-effect{position:absolute;bottom:10px;left:50%;transform:translateX(-50%);
+  width:20px;height:6px;background:#FF8C42;border-radius:50%;box-shadow:0 0 20px rgba(255,140,66,0.6)}
+.text-overlay{position:absolute;top:42%;left:0;right:0;text-align:center}
+.text-line{font-family:system-ui,sans-serif;font-size:16px;font-weight:700;color:white;
+  text-shadow:0 2px 8px rgba(0,0,0,0.5);margin:12px 0;animation:fadeIn 1.5s infinite alternate}
+@keyframes fadeIn{0%{opacity:0.6}100%{opacity:1}}
+.final{flex:1;background:linear-gradient(135deg,#B45309,#8B6914,#6B4E0A);
+  display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px}
+.final-logo{font-family:'Georgia',serif;font-size:40px;font-weight:bold;color:white;letter-spacing:6px}
+.final-tagline{font-family:system-ui,sans-serif;font-size:12px;color:rgba(255,255,255,0.8);letter-spacing:2px}
+.stick-visual{position:absolute;bottom:8px;left:50%;transform:translateX(-50%);z-index:2}
+.stick-visual::after{content:'';display:block;width:3px;height:25px;background:#C49A6C;border-radius:2px;margin:0 auto}
+</style></head><body>
+<div class="reel">
+  <div class="split">
+    <div class="left">
+      <div class="left-label">REGULAR</div>
+      <div class="stick-visual"></div>
+      <div class="bad-smoke"></div>
+    </div>
+    <div class="right">
+      <div class="right-label">SEWA</div>
+      <div class="stick-visual"></div>
+      <div class="glow-effect"></div>
+      <div class="good-smoke"></div>
+    </div>
+  </div>
+  <div class="text-overlay">
+    <div class="text-line">More smoke ≠ more fragrance</div>
+    <div class="text-line">Switch to charcoal-free</div>
+    <div class="text-line">50% more fragrance ✨</div>
+  </div>
+  <div class="final">
+    <div class="final-logo">SEWA</div>
+    <div class="final-tagline">Burn Luxury. Breathe Responsibility.</div>
+  </div>
+</div>
+</body></html>

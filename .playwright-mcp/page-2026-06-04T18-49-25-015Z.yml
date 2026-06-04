@@ -1,0 +1,281 @@
+- generic [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "SEWA" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Products" [ref=e7] [cursor=pointer]:
+          - /url: /products
+        - link "Blog" [ref=e8] [cursor=pointer]:
+          - /url: /blog
+        - link "Agent" [ref=e9] [cursor=pointer]:
+          - /url: /agent
+        - link "Instagram" [ref=e10] [cursor=pointer]:
+          - /url: https://www.instagram.com
+  - main [ref=e11]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - heading "AI Agent Dashboard" [level=1] [ref=e49]
+          - paragraph [ref=e50]: 24/7 content generation & posting engine
+        - link "← Back to Site" [ref=e51] [cursor=pointer]:
+          - /url: /
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - generic [ref=e54]: "6"
+          - generic [ref=e55]: Today Generated
+        - generic [ref=e56]:
+          - generic [ref=e57]: "0"
+          - generic [ref=e58]: Today Posted
+        - generic [ref=e59]:
+          - generic [ref=e60]: "0"
+          - generic [ref=e61]: Total Posted
+        - generic [ref=e62]:
+          - generic [ref=e63]: "6"
+          - generic [ref=e64]: Pending
+      - generic [ref=e65]:
+        - generic [ref=e66]:
+          - heading "Agent Controls" [level=2] [ref=e67]
+          - generic [ref=e68]:
+            - generic [ref=e70]: Stopped
+            - generic [ref=e71]: "| IG not configured | Gemini Connected"
+          - generic [ref=e72]:
+            - button "Start Agent" [ref=e73]
+            - button "Stop Agent" [disabled] [ref=e74]
+            - button "Generate Posts" [ref=e75]
+            - button "Generate Reel" [ref=e76]
+            - button "Post to IG" [disabled] [ref=e77]
+            - button "AI Creative" [ref=e78]
+        - generic [ref=e79]:
+          - heading "Gemini Creative Studio" [level=2] [ref=e80]
+          - generic [ref=e81]: Gemini API connected. Generating high-quality image and video creatives.
+          - generic [ref=e83]: No creatives yet. Click "AI Creative" to generate image/video prompts.
+      - generic [ref=e84]:
+        - generic [ref=e85]:
+          - heading "📊 Marketing Intelligence" [level=2] [ref=e86]
+          - generic [ref=e87]:
+            - button "Calendar" [ref=e88]
+            - button "Competitors" [ref=e89]
+            - button "Market Gaps" [active] [ref=e90]
+        - generic [ref=e91]:
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - generic [ref=e94]: 🏆
+              - generic [ref=e95]:
+                - heading "No brand owns 'charcoal-free + toxin-free + luxury' together" [level=3] [ref=e96]
+                - paragraph [ref=e97]: Category-defining brand. When people think 'clean luxury incense', they should think SEWA. No competitor combines all 5 USPs in one product....
+              - button "Generate" [ref=e98]
+            - generic [ref=e99]:
+              - generic [ref=e100]:
+                - paragraph [ref=e101]: Key Tactics
+                - paragraph [ref=e102]: • Launch 'What's NOT in your incense?' awareness campaign — educate consumers about charcoal, phthalates, and toxins in regular incense
+                - paragraph [ref=e103]: "• Create comparison content: SEWA vs regular incense — visual smoke test, fragrance test"
+                - paragraph [ref=e104]: • Publish 'The Clean Incense Guide' — a definitive buyer's guide positioning SEWA as the authority
+              - generic [ref=e105]:
+                - paragraph [ref=e106]: Content Ideas
+                - paragraph [ref=e107]: "• 🔥 POST: 'Burn this, not that' — side-by-side comparison of charcoal incense smoke vs SEWA clean smo..."
+                - paragraph [ref=e108]: "• 📊 CAROUSEL: '5 things hiding in your incense' — educational swipe series..."
+          - generic [ref=e109]:
+            - generic [ref=e110]:
+              - generic [ref=e111]: ⚡
+              - generic [ref=e112]:
+                - heading "Quick-commerce (Blinkit/Zepto) incense is under-branded — no premium player dominates" [level=3] [ref=e113]
+                - paragraph [ref=e114]: Own the 10-minute incense category. When someone searches 'incense' on Blinkit at 9 PM, SEWA should be the first result....
+              - button "Generate" [ref=e115]
+            - generic [ref=e116]:
+              - generic [ref=e117]:
+                - paragraph [ref=e118]: Key Tactics
+                - paragraph [ref=e119]: • List ALL SKUs on Blinkit and Zepto with optimised titles including 'charcoal-free' and 'toxin-free'
+                - paragraph [ref=e120]: "• Create impulse-buy packaging: small packs (₹99-₹199) perfect for quick-commerce baskets"
+                - paragraph [ref=e121]: "• Run platform-specific promotions: 'Late night calm' discount after 9 PM"
+              - generic [ref=e122]:
+                - paragraph [ref=e123]: Content Ideas
+                - paragraph [ref=e124]: "• ⚡ POST: '10-minute calm. Order SEWA on Blinkit.' — simple, direct, impulse-driven..."
+                - paragraph [ref=e125]: "• 📱 STORY: 'It's 9 PM. You need to unwind. Open Blinkit. Search SEWA. Done.'..."
+          - generic [ref=e126]:
+            - generic [ref=e127]:
+              - generic [ref=e128]: 🎁
+              - generic [ref=e129]:
+                - heading "Gifting segment has no clear incense/diffuser brand" [level=3] [ref=e130]
+                - paragraph [ref=e131]: Become the go-to premium gift for every occasion — Diwali, housewarming, weddings, birthdays, corporate gifts....
+              - button "Generate" [ref=e132]
+            - generic [ref=e133]:
+              - generic [ref=e134]:
+                - paragraph [ref=e135]: Key Tactics
+                - paragraph [ref=e136]: "• Launch SEWA Gift Collection: curated boxes at ₹499, ₹999, ₹1,999 price points"
+                - paragraph [ref=e137]: "• Create occasion-specific gift pages on website: Diwali Gifts, Housewarming Gifts, Thank You Gifts"
+                - paragraph [ref=e138]: • Offer personalised gift notes and gift wrapping (plastic-free, obviously)
+              - generic [ref=e139]:
+                - paragraph [ref=e140]: Content Ideas
+                - paragraph [ref=e141]: "• 🎁 POST: 'The gift they'll actually use' — flat-lay of SEWA gift box..."
+                - paragraph [ref=e142]: "• 🎬 REEL: 'Unboxing the SEWA Gift Collection' — ASMR unwrap experience..."
+          - generic [ref=e143]:
+            - generic [ref=e144]:
+              - generic [ref=e145]: 💍
+              - generic [ref=e146]:
+                - heading "Wedding/event return gifts — no premium incense brand serves this ₹2,000+ crore market" [level=3] [ref=e147]
+                - paragraph [ref=e148]: Position SEWA as the sophisticated, meaningful wedding return gift. Plastic-free, women-made, toxin-free — a gift that tells a story....
+              - button "Generate" [ref=e149]
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - paragraph [ref=e152]: Key Tactics
+                - paragraph [ref=e153]: "• Create wedding-specific catalogue: 'SEWA Wedding Collection' with bulk pricing"
+                - paragraph [ref=e154]: "• Offer customisation: couple names on packaging, wedding date, personalised fragrance blends"
+                - paragraph [ref=e155]: • Partner with wedding planners and decorators for referrals
+              - generic [ref=e156]:
+                - paragraph [ref=e157]: Content Ideas
+                - paragraph [ref=e158]: "• 💍 POST: 'The return gift guests will actually keep' — elegant wedding setting with SEWA favours..."
+                - paragraph [ref=e159]: "• 🎬 REEL: 'A wedding favour with meaning' — story of women artisans + the couple's special day..."
+          - generic [ref=e160]:
+            - generic [ref=e161]:
+              - generic [ref=e162]: 🏢
+              - generic [ref=e163]:
+                - heading "Corporate gifting — Diwali hampers with toxin-free luxury products = untapped" [level=3] [ref=e164]
+                - paragraph [ref=e165]: "Every corporate Diwali hamper includes generic sweets and dry fruits. SEWA offers something different: a luxury wellness gift that aligns with CSR val..."
+              - button "Generate" [ref=e166]
+            - generic [ref=e167]:
+              - generic [ref=e168]:
+                - paragraph [ref=e169]: Key Tactics
+                - paragraph [ref=e170]: "• Create corporate gifting brochure with tiered options: Silver (₹499), Gold (₹999), Platinum (₹1,999)"
+                - paragraph [ref=e171]: "• Offer corporate branding: company logo on packaging, customised thank-you cards"
+                - paragraph [ref=e172]: • Target HR and admin heads on LinkedIn with direct outreach
+              - generic [ref=e173]:
+                - paragraph [ref=e174]: Content Ideas
+                - paragraph [ref=e175]: "• 🏢 POST: 'Elevate your corporate gifting' — premium flat-lay of corporate hamper..."
+                - paragraph [ref=e176]: "• 📊 CAROUSEL: 'Corporate gifting reimagined' — why SEWA beats generic sweet boxes..."
+      - generic [ref=e177]:
+        - generic [ref=e178]:
+          - heading "Content Queue (6)" [level=2] [ref=e179]
+          - generic [ref=e180]:
+            - button "Approve All (6)" [ref=e181]
+            - generic [ref=e182]:
+              - button "All" [ref=e183]
+              - button "Pending" [ref=e184]
+              - button "Approved" [ref=e185]
+              - button "Posted" [ref=e186]
+              - button "Failed" [ref=e187]
+        - generic [ref=e188]:
+          - generic [ref=e190]:
+            - generic [ref=e191]:
+              - generic [ref=e192]:
+                - generic [ref=e193]: pending
+                - generic [ref=e194]: instagram
+                - generic [ref=e195]: post
+              - paragraph [ref=e196]: Plastic-Free Packaging
+              - paragraph [ref=e197]: Luxury shouldn't come wrapped in plastic. SEWA packaging is 100% plastic-free — beautiful inside and out. 🌍
+              - generic [ref=e198]:
+                - generic [ref=e199]: "#PlasticFree"
+                - generic [ref=e200]: "#SustainableLuxury"
+                - generic [ref=e201]: "#EcoFriendly"
+                - generic [ref=e202]: "#ZeroWaste"
+                - generic [ref=e203]: "#ConsciousLiving"
+              - generic [ref=e204]:
+                - button "✓ Approve" [ref=e205]
+                - button "✕ Reject" [ref=e206]
+            - generic [ref=e207]: 12:14 am
+          - generic [ref=e209]:
+            - generic [ref=e210]:
+              - generic [ref=e211]:
+                - generic [ref=e212]: pending
+                - generic [ref=e213]: instagram
+                - generic [ref=e214]: post
+              - paragraph [ref=e215]: 50% More Fragrance, Less Smoke
+              - paragraph [ref=e216]: More aroma. Less smoke. That's not a trade-off — that's premium craftsmanship. Discover the SEWA difference. 🌬️
+              - generic [ref=e217]:
+                - generic [ref=e218]: "#MoreFragrance"
+                - generic [ref=e219]: "#LessSmoke"
+                - generic [ref=e220]: "#LuxuryIncense"
+                - generic [ref=e221]: "#PremiumAroma"
+                - generic [ref=e222]: "#SEWAdifference"
+              - generic [ref=e223]:
+                - button "✓ Approve" [ref=e224]
+                - button "✕ Reject" [ref=e225]
+            - generic [ref=e226]: 12:14 am
+          - generic [ref=e228]:
+            - generic [ref=e229]:
+              - generic [ref=e230]:
+                - generic [ref=e231]: pending
+                - generic [ref=e232]: instagram
+                - generic [ref=e233]: post
+              - paragraph [ref=e234]: Toxin-Free & Safe
+              - paragraph [ref=e235]: "What's NOT in SEWA incense: charcoal, phthalates, toxins, synthetic chemicals. What IS: pure luxury fragrance. 🌸"
+              - generic [ref=e236]:
+                - generic [ref=e237]: "#ToxinFree"
+                - generic [ref=e238]: "#PhthalateFree"
+                - generic [ref=e239]: "#CleanHome"
+                - generic [ref=e240]: "#SafeFragrance"
+                - generic [ref=e241]: "#HealthyLiving"
+              - generic [ref=e242]:
+                - button "✓ Approve" [ref=e243]
+                - button "✕ Reject" [ref=e244]
+            - generic [ref=e245]: 12:14 am
+          - generic [ref=e247]:
+            - generic [ref=e248]:
+              - generic [ref=e249]:
+                - generic [ref=e250]: pending
+                - generic [ref=e251]: instagram
+                - generic [ref=e252]: reel
+              - paragraph [ref=e253]: The Clean Burn
+              - paragraph [ref=e254]: Your lungs deserve better. Switch to charcoal-free, phthalate-free, toxin-free SEWA. 🌬️
+              - generic [ref=e255]:
+                - generic [ref=e256]: "#Reels"
+                - generic [ref=e257]: "#SEWAaromas"
+                - generic [ref=e258]: "#IncenseReel"
+                - generic [ref=e259]: "#TrendingReel"
+                - generic [ref=e260]: "#ExplorePage"
+              - generic [ref=e261]:
+                - button "✓ Approve" [ref=e262]
+                - button "✕ Reject" [ref=e263]
+            - generic [ref=e264]: 12:14 am
+          - generic [ref=e266]:
+            - generic [ref=e267]:
+              - generic [ref=e268]:
+                - generic [ref=e269]: pending
+                - generic [ref=e270]: instagram
+                - generic [ref=e271]: story
+              - paragraph [ref=e272]: Story 1
+              - paragraph [ref=e273]: "Behind the scenes: Watch how our women artisans craft luxury incense 🎥"
+              - generic [ref=e274]:
+                - button "✓ Approve" [ref=e275]
+                - button "✕ Reject" [ref=e276]
+            - generic [ref=e277]: 12:14 am
+          - generic [ref=e279]:
+            - generic [ref=e280]:
+              - generic [ref=e281]:
+                - generic [ref=e282]: pending
+                - generic [ref=e283]: instagram
+                - generic [ref=e284]: story
+              - paragraph [ref=e285]: Story 2
+              - paragraph [ref=e286]: "Question box: Ask us anything about charcoal-free incense, our premium ingredients, or women artisans! 💬"
+              - generic [ref=e287]:
+                - button "✓ Approve" [ref=e288]
+                - button "✕ Reject" [ref=e289]
+            - generic [ref=e290]: 12:14 am
+  - contentinfo [ref=e19]:
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - heading "SEWA" [level=3] [ref=e22]
+        - paragraph [ref=e23]: Sacred fragrances for your space. Premium incense, candles, diffusers, and more — crafted to elevate every moment.
+      - generic [ref=e24]:
+        - heading "Quick Links" [level=4] [ref=e25]
+        - generic [ref=e26]:
+          - link "Products" [ref=e27] [cursor=pointer]:
+            - /url: /products
+          - link "Blog" [ref=e28] [cursor=pointer]:
+            - /url: /blog
+          - link "Amazon Store" [ref=e29] [cursor=pointer]:
+            - /url: https://www.amazon.in
+      - generic [ref=e30]:
+        - heading "Find Us On" [level=4] [ref=e31]
+        - generic [ref=e32]:
+          - generic [ref=e33]: Amazon
+          - generic [ref=e34]: Blinkit
+          - generic [ref=e35]: Zepto
+          - generic [ref=e36]: Ajio
+          - generic [ref=e37]: Reliance
+    - generic [ref=e38]: © 2026 SEWA. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e44] [cursor=pointer]:
+    - img [ref=e45]
+  - alert [ref=e48]

@@ -1,0 +1,109 @@
+{
+  "updatedAt": "2026-06-04",
+  "gaps": [
+    {
+      "id": "category-ownership",
+      "gap": "No brand owns 'charcoal-free + toxin-free + luxury' together",
+      "strategy": "Category-defining brand. When people think 'clean luxury incense', they should think SEWA. No competitor combines all 5 USPs in one product.",
+      "tactics": [
+        "Launch 'What's NOT in your incense?' awareness campaign — educate consumers about charcoal, phthalates, and toxins in regular incense",
+        "Create comparison content: SEWA vs regular incense — visual smoke test, fragrance test",
+        "Publish 'The Clean Incense Guide' — a definitive buyer's guide positioning SEWA as the authority",
+        "Partner with health/wellness influencers who can authentically talk about indoor air quality",
+        "Get certified: organic certification, toxin-free certification for third-party credibility"
+      ],
+      "contentTemplates": [
+        "🔥 POST: 'Burn this, not that' — side-by-side comparison of charcoal incense smoke vs SEWA clean smoke",
+        "📊 CAROUSEL: '5 things hiding in your incense' — educational swipe series",
+        "🎬 REEL: 'The Smoke Test' — light regular incense vs SEWA side by side, time-lapse the difference",
+        "📝 BLOG: 'Why Charcoal-Free Is the Future of Incense'"
+      ],
+      "kpis": ["Brand search volume", "'charcoal-free incense' keyword ranking", "Comparison page traffic"]
+    },
+    {
+      "id": "quick-commerce",
+      "gap": "Quick-commerce (Blinkit/Zepto) incense is under-branded — no premium player dominates",
+      "strategy": "Own the 10-minute incense category. When someone searches 'incense' on Blinkit at 9 PM, SEWA should be the first result.",
+      "tactics": [
+        "List ALL SKUs on Blinkit and Zepto with optimised titles including 'charcoal-free' and 'toxin-free'",
+        "Create impulse-buy packaging: small packs (₹99-₹199) perfect for quick-commerce baskets",
+        "Run platform-specific promotions: 'Late night calm' discount after 9 PM",
+        "Bundle with complementary products: incense + holder combo, candle + matches pack",
+        "Dominate search results with keyword-optimised listings and high review velocity",
+        "Offer exclusive quick-commerce only variants to create FOMO"
+      ],
+      "contentTemplates": [
+        "⚡ POST: '10-minute calm. Order SEWA on Blinkit.' — simple, direct, impulse-driven",
+        "📱 STORY: 'It's 9 PM. You need to unwind. Open Blinkit. Search SEWA. Done.'",
+        "🎬 REEL: '24 hours of SEWA' — morning incense → afternoon diffuser → evening candle, all ordered in 10 mins"
+      ],
+      "kpis": ["Blinkit/Zepto order volume", "Quick-commerce market share", "Search rank for 'incense' on each platform"]
+    },
+    {
+      "id": "gifting",
+      "gap": "Gifting segment has no clear incense/diffuser brand",
+      "strategy": "Become the go-to premium gift for every occasion — Diwali, housewarming, weddings, birthdays, corporate gifts.",
+      "tactics": [
+        "Launch SEWA Gift Collection: curated boxes at ₹499, ₹999, ₹1,999 price points",
+        "Create occasion-specific gift pages on website: Diwali Gifts, Housewarming Gifts, Thank You Gifts",
+        "Offer personalised gift notes and gift wrapping (plastic-free, obviously)",
+        "Partner with corporate gifting platforms (QwikGift, IGP, FNP) for distribution",
+        "Amazon Gift Finder optimisation: make SEWA appear in gift-related search results",
+        "Run 'Gift Clean' campaign: 'This Diwali, gift toxin-free fragrance'"
+      ],
+      "contentTemplates": [
+        "🎁 POST: 'The gift they'll actually use' — flat-lay of SEWA gift box",
+        "🎬 REEL: 'Unboxing the SEWA Gift Collection' — ASMR unwrap experience",
+        "📊 CAROUSEL: 'Gift guide by budget' — ₹499 / ₹999 / ₹1,999 options",
+        "📱 STORY: 'Last-minute Diwali gift? We got you.' with Blinkit 10-min delivery angle"
+      ],
+      "kpis": ["Gift box sales", "Corporate gifting inquiries", "Gift-related keyword traffic"]
+    },
+    {
+      "id": "wedding-return-gifts",
+      "gap": "Wedding/event return gifts — no premium incense brand serves this ₹2,000+ crore market",
+      "strategy": "Position SEWA as the sophisticated, meaningful wedding return gift. Plastic-free, women-made, toxin-free — a gift that tells a story.",
+      "tactics": [
+        "Create wedding-specific catalogue: 'SEWA Wedding Collection' with bulk pricing",
+        "Offer customisation: couple names on packaging, wedding date, personalised fragrance blends",
+        "Partner with wedding planners and decorators for referrals",
+        "List on wedding vendor platforms like WedMeGood, ShaadiSaga",
+        "Create sample kits for wedding planners to showcase at client meetings",
+        "Target destination weddings and luxury weddings specifically — premium positioning matches"
+      ],
+      "contentTemplates": [
+        "💍 POST: 'The return gift guests will actually keep' — elegant wedding setting with SEWA favours",
+        "🎬 REEL: 'A wedding favour with meaning' — story of women artisans + the couple's special day",
+        "📊 CAROUSEL: 'Why SEWA for your wedding favours' — 5 reasons (eco-friendly, meaningful, premium, customisable, memorable)",
+        "📱 STORY: Bride-to-be poll: 'What matters in a return gift?' — SEWA positioned as the answer"
+      ],
+      "kpis": ["Wedding bulk orders", "WedMeGood listing traffic", "Wedding season sales spike"]
+    },
+    {
+      "id": "corporate-gifting",
+      "gap": "Corporate gifting — Diwali hampers with toxin-free luxury products = untapped",
+      "strategy": "Every corporate Diwali hamper includes generic sweets and dry fruits. SEWA offers something different: a luxury wellness gift that aligns with CSR values.",
+      "tactics": [
+        "Create corporate gifting brochure with tiered options: Silver (₹499), Gold (₹999), Platinum (₹1,999)",
+        "Offer corporate branding: company logo on packaging, customised thank-you cards",
+        "Target HR and admin heads on LinkedIn with direct outreach",
+        "Partner with corporate gifting aggregators (BigSmall, Brown Living, Sublime House of Tea as cross-sell)",
+        "Run 'Gift Wellness This Diwali' B2B campaign 6 weeks before Diwali",
+        "Offer GST invoices and bulk discount slabs: 10-50 units (10%), 50-200 (15%), 200+ (20%)"
+      ],
+      "contentTemplates": [
+        "🏢 POST: 'Elevate your corporate gifting' — premium flat-lay of corporate hamper",
+        "📊 CAROUSEL: 'Corporate gifting reimagined' — why SEWA beats generic sweet boxes",
+        "📧 EMAIL/LINKEDIN: 'This Diwali, gift your team toxin-free wellness' — B2B outreach template",
+        "🎬 REEL: 'What's inside the SEWA Corporate Hamper?' — premium unboxing for B2B buyers"
+      ],
+      "kpis": ["Corporate order volume", "Diwali corporate revenue", "Repeat corporate clients"]
+    }
+  ],
+  "priorityRoadmap": {
+    "now": ["category-ownership", "quick-commerce"],
+    "next30": ["gifting"],
+    "next60": ["corporate-gifting"],
+    "next90": ["wedding-return-gifts"]
+  }
+}

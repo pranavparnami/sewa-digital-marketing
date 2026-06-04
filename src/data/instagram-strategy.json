@@ -1,0 +1,142 @@
+{
+  "brand": "SEWA",
+  "tagline": "Burn Luxury. Breathe Responsibility.",
+  "updatedAt": "2026-06-04",
+  "contentPillars": [
+    {
+      "name": "Charcoal-Free & Toxin-Free",
+      "percentage": 25,
+      "ideas": [
+        "Comparison: charcoal incense vs SEWA charcoal-free — smoke, fragrance, health impact",
+        "Educational carousel: 'What's actually in your incense?'",
+        "'What do phthalate-free and toxin-free mean?' educational post",
+        "Customer testimonial: 'I switched to SEWA and noticed the difference immediately'"
+      ]
+    },
+    {
+      "name": "Women Empowerment",
+      "percentage": 25,
+      "ideas": [
+        "Meet the artisan: Spotlight one woman who crafts SEWA products",
+        "Day in the life: A woman artisan's morning routine",
+        "Impact numbers: How many women employed, their stories",
+        "User-generated: Tag a woman who inspires you"
+      ]
+    },
+    {
+      "name": "Premium Quality & Lifestyle",
+      "percentage": 30,
+      "ideas": [
+        "Slow-motion incense lighting showcasing clean burn",
+        "Product flat-lay with flowers, warm lighting, plastic-free packaging",
+        "Home sanctuary tour featuring SEWA products",
+        "ASMR reel: unboxing the plastic-free SEWA packaging"
+      ]
+    },
+    {
+      "name": "Sustainability & Clean Living",
+      "percentage": 20,
+      "ideas": [
+        "'Why plastic-free matters' infographic carousel",
+        "'Your guide to toxin-free home fragrance' educational post",
+        "Behind the scenes: premium ingredients and quality control",
+        "Sustainability tips for conscious homes"
+      ]
+    }
+  ],
+  "reelScripts": [
+    {
+      "title": "The Clean Burn Test",
+      "duration": "15 sec",
+      "shots": [
+        "Split screen: regular incense (heavy smoke) vs SEWA incense (minimal smoke, stronger fragrance)",
+        "Text overlay: '50% MORE FRAGRANCE. LESS SMOKE.'"
+      ],
+      "caption": "See the difference. Charcoal-free, toxin-free SEWA vs regular incense. 🌬️",
+      "audio": "Trending clean beat or nature sounds"
+    },
+    {
+      "title": "Meet the Maker",
+      "duration": "15-20 sec",
+      "shots": [
+        "Close-up of woman artisan's hands crafting incense",
+        "Her face, smiling at her work",
+        "Final product being packaged in plastic-free box"
+      ],
+      "caption": "Every SEWA product carries her story. Handcrafted with pride. 👩‍🎨",
+      "audio": "Warm, acoustic instrumental"
+    },
+    {
+      "title": "Plastic-Free Unboxing",
+      "duration": "15 sec",
+      "shots": [
+        "ASMR-style unboxing: paper wrap → box opening → incense reveal → lighting",
+        "Every sound crisp: paper rustle, match strike, gentle blow"
+      ],
+      "caption": "Satisfying unboxing. No plastic. Pure luxury. 📦",
+      "audio": "Original ASMR audio"
+    },
+    {
+      "title": "Premium Ingredients Showcase",
+      "duration": "15 sec",
+      "shots": [
+        "Macro shots of natural botanicals and essential oils",
+        "Handcrafting process in slow motion",
+        "Clean, minimal smoke burn shot"
+      ],
+      "caption": "High-quality botanicals. Premium essential oils. Zero toxins. This is SEWA. 🌿",
+      "audio": "Calm instrumental"
+    }
+  ],
+  "hashtags": {
+    "broad": [
+      "#incense",
+      "#luxuryincense",
+      "#charcoalfree",
+      "#plasticfree",
+      "#sustainableliving",
+      "#homedecor",
+      "#womenempowerment",
+      "#ecofriendly",
+      "#toxinfree",
+      "#indianbrand"
+    ],
+    "niche": [
+      "#charcoalfreeincense",
+      "#phthalatefree",
+      "#womenartisans",
+      "#plasticfreepackaging",
+      "#cleanburning",
+      "#morefragrance",
+      "#naturalbotanicals",
+      "#d2cindia",
+      "#consciousluxury",
+      "#burnluxurybreatheresponsibility"
+    ],
+    "branded": [
+      "#SEWA",
+      "#SEWAincense",
+      "#SEWAaromas",
+      "#SEWAfragrances",
+      "#FragranceWithPurpose"
+    ]
+  },
+  "postingSchedule": [
+    { "day": "Monday", "contentType": "Charcoal-free / toxin-free education", "purpose": "Brand authority + saves" },
+    { "day": "Tuesday", "contentType": "Women empowerment / artisan spotlight", "purpose": "Emotional connection" },
+    { "day": "Wednesday", "contentType": "Product reel or ASMR", "purpose": "Reach + engagement" },
+    { "day": "Thursday", "contentType": "Ingredients / quality / clean burn", "purpose": "Trust + education" },
+    { "day": "Friday", "contentType": "Promotional (link in bio / Amazon)", "purpose": "Sales" },
+    { "day": "Saturday", "contentType": "Lifestyle / home sanctuary / UGC", "purpose": "Community + relatability" },
+    { "day": "Sunday", "contentType": "Inspirational / spiritual / pooja", "purpose": "Brand values + India connect" }
+  ],
+  "bestPostingTimesIST": ["8-9 AM (morning wellness scroll)", "12-1 PM (lunch break)", "7-9 PM (evening unwind)"],
+  "growthTactics": [
+    "Collab with micro-influencers: yoga instructors, clean-living creators, women empowerment pages, home decor accounts",
+    "Use Stories daily: polls (charcoal vs charcoal-free), Q&As, countdowns, product links",
+    "Reply to every comment within 1 hour for algorithm boost",
+    "Go Live weekly: 'Scent of the Week' or 'Meet the Artisan' sessions",
+    "Run 'Switch to Clean' campaign: encourage users to post their switch from charcoal incense to SEWA",
+    "Partner with eco-conscious and women-led brands for cross-promotions"
+  ]
+}

@@ -1,0 +1,274 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "SEWA" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Products" [ref=e7] [cursor=pointer]:
+          - /url: /products
+        - link "Blog" [ref=e8] [cursor=pointer]:
+          - /url: /blog
+        - link "Agent" [ref=e9] [cursor=pointer]:
+          - /url: /agent
+        - link "Instagram" [ref=e10] [cursor=pointer]:
+          - /url: https://www.instagram.com
+  - main [ref=e11]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - heading "AI Agent Dashboard" [level=1] [ref=e15]
+          - paragraph [ref=e16]: 24/7 content generation & posting engine
+        - link "← Back to Site" [ref=e17] [cursor=pointer]:
+          - /url: /
+      - generic [ref=e18]:
+        - generic [ref=e19]:
+          - generic [ref=e20]: "14"
+          - generic [ref=e21]: Today Generated
+        - generic [ref=e22]:
+          - generic [ref=e23]: "0"
+          - generic [ref=e24]: Today Posted
+        - generic [ref=e25]:
+          - generic [ref=e26]: "0"
+          - generic [ref=e27]: Total Posted
+        - generic [ref=e28]:
+          - generic [ref=e29]: "14"
+          - generic [ref=e30]: Pending
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - heading "Agent Controls" [level=2] [ref=e33]
+          - generic [ref=e34]:
+            - generic [ref=e36]: Stopped
+            - generic [ref=e37]: "| IG not configured"
+          - generic [ref=e38]:
+            - button "Start Agent" [ref=e39]
+            - button "Stop Agent" [disabled] [ref=e40]
+            - button "Generate Posts" [ref=e41]
+            - button "Generate Reel" [ref=e42]
+            - button "Post to IG" [disabled] [ref=e43]
+        - generic [ref=e44]:
+          - heading "Instagram Setup" [level=2] [ref=e45]
+          - generic [ref=e46]:
+            - generic [ref=e47]: Instagram is not yet configured. Add your tokens to enable auto-posting.
+            - generic [ref=e48]:
+              - paragraph [ref=e49]: 1. Go to Meta Business Suite → Settings → Instagram
+              - paragraph [ref=e50]: 2. Generate a long-lived access token
+              - paragraph [ref=e51]: 3. Find your Instagram Account ID
+              - paragraph [ref=e52]: "4. Add to .env: INSTAGRAM_ACCESS_TOKEN and INSTAGRAM_ACCOUNT_ID"
+              - paragraph [ref=e53]: 5. Restart the agent
+      - generic [ref=e54]:
+        - generic [ref=e55]:
+          - heading "Content Queue (14)" [level=2] [ref=e56]
+          - generic [ref=e57]:
+            - button "All" [ref=e58]
+            - button "Pending" [ref=e59]
+            - button "Posted" [ref=e60]
+            - button "Failed" [ref=e61]
+        - generic [ref=e62]:
+          - generic [ref=e64]:
+            - generic [ref=e65]:
+              - generic [ref=e66]:
+                - generic [ref=e67]: pending
+                - generic [ref=e68]: instagram
+                - generic [ref=e69]: post
+              - paragraph [ref=e70]: 50% More Fragrance, Less Smoke
+              - paragraph [ref=e71]: Why settle for faint fragrance? SEWA delivers 50% more scent diffusion with significantly less smoke. Luxury you can actually smell. ✨
+              - generic [ref=e72]:
+                - generic [ref=e73]: "#MoreFragrance"
+                - generic [ref=e74]: "#LessSmoke"
+                - generic [ref=e75]: "#LuxuryIncense"
+                - generic [ref=e76]: "#PremiumAroma"
+                - generic [ref=e77]: "#SEWAdifference"
+            - generic [ref=e78]: 11:04 pm
+          - generic [ref=e80]:
+            - generic [ref=e81]:
+              - generic [ref=e82]:
+                - generic [ref=e83]: pending
+                - generic [ref=e84]: instagram
+                - generic [ref=e85]: post
+              - paragraph [ref=e86]: Toxin-Free & Safe
+              - paragraph [ref=e87]: "What's NOT in SEWA incense: charcoal, phthalates, toxins, synthetic chemicals. What IS: pure luxury fragrance. 🌸"
+              - generic [ref=e88]:
+                - generic [ref=e89]: "#ToxinFree"
+                - generic [ref=e90]: "#PhthalateFree"
+                - generic [ref=e91]: "#CleanHome"
+                - generic [ref=e92]: "#SafeFragrance"
+                - generic [ref=e93]: "#HealthyLiving"
+            - generic [ref=e94]: 11:04 pm
+          - generic [ref=e96]:
+            - generic [ref=e97]:
+              - generic [ref=e98]:
+                - generic [ref=e99]: pending
+                - generic [ref=e100]: instagram
+                - generic [ref=e101]: post
+              - paragraph [ref=e102]: Home Sanctuary
+              - paragraph [ref=e103]: Your home is your sanctuary. Make it toxin-free. Make it beautiful. Make it SEWA. 🏠
+              - generic [ref=e104]:
+                - generic [ref=e105]: "#HomeSanctuary"
+                - generic [ref=e106]: "#CleanHome"
+                - generic [ref=e107]: "#ToxinFreeHome"
+                - generic [ref=e108]: "#SafeFragrance"
+                - generic [ref=e109]: "#ConsciousHome"
+            - generic [ref=e110]: 11:04 pm
+          - generic [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e114]:
+                - generic [ref=e115]: pending
+                - generic [ref=e116]: instagram
+                - generic [ref=e117]: reel
+              - paragraph [ref=e118]: Women Behind SEWA
+              - paragraph [ref=e119]: When you buy SEWA, you're not just buying incense. You're buying a woman's independence. 👩‍🎨
+              - generic [ref=e120]:
+                - generic [ref=e121]: "#Reels"
+                - generic [ref=e122]: "#SEWAaromas"
+                - generic [ref=e123]: "#IncenseReel"
+                - generic [ref=e124]: "#TrendingReel"
+                - generic [ref=e125]: "#ExplorePage"
+            - generic [ref=e126]: 11:04 pm
+          - generic [ref=e128]:
+            - generic [ref=e129]:
+              - generic [ref=e130]:
+                - generic [ref=e131]: pending
+                - generic [ref=e132]: instagram
+                - generic [ref=e133]: story
+              - paragraph [ref=e134]: Story 1
+              - paragraph [ref=e135]: "Flash deal: 20% off our bestseller on Amazon — next 24 hours! ⚡"
+            - generic [ref=e136]: 11:04 pm
+          - generic [ref=e138]:
+            - generic [ref=e139]:
+              - generic [ref=e140]:
+                - generic [ref=e141]: pending
+                - generic [ref=e142]: instagram
+                - generic [ref=e143]: story
+              - paragraph [ref=e144]: Story 2
+              - paragraph [ref=e145]: "Question box: Ask us anything about charcoal-free incense, our premium ingredients, or women artisans! 💬"
+            - generic [ref=e146]: 11:04 pm
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - generic [ref=e150]:
+                - generic [ref=e151]: pending
+                - generic [ref=e152]: instagram
+                - generic [ref=e153]: post
+              - paragraph [ref=e154]: Product Spotlight
+              - paragraph [ref=e155]: "Nag Champa like you've never experienced: charcoal-free, crafted by women artisans, packaged plastic-free. The classic, elevated. 🔥"
+              - generic [ref=e156]:
+                - generic [ref=e157]: "#SEWAproducts"
+                - generic [ref=e158]: "#LuxuryIncense"
+                - generic [ref=e159]: "#CharcoalFree"
+                - generic [ref=e160]: "#Handcrafted"
+                - generic [ref=e161]: "#SustainableLuxury"
+            - generic [ref=e162]: 11:07 pm
+          - generic [ref=e164]:
+            - generic [ref=e165]:
+              - generic [ref=e166]:
+                - generic [ref=e167]: pending
+                - generic [ref=e168]: instagram
+                - generic [ref=e169]: post
+              - paragraph [ref=e170]: 50% More Fragrance, Less Smoke
+              - paragraph [ref=e171]: Why settle for faint fragrance? SEWA delivers 50% more scent diffusion with significantly less smoke. Luxury you can actually smell. ✨
+              - generic [ref=e172]:
+                - generic [ref=e173]: "#MoreFragrance"
+                - generic [ref=e174]: "#LessSmoke"
+                - generic [ref=e175]: "#LuxuryIncense"
+                - generic [ref=e176]: "#PremiumAroma"
+                - generic [ref=e177]: "#SEWAdifference"
+            - generic [ref=e178]: 11:07 pm
+          - generic [ref=e180]:
+            - generic [ref=e181]:
+              - generic [ref=e182]:
+                - generic [ref=e183]: pending
+                - generic [ref=e184]: instagram
+                - generic [ref=e185]: post
+              - paragraph [ref=e186]: Product Spotlight
+              - paragraph [ref=e187]: Soy wax candles. Pure essential oils. Plastic-free packaging. Hand-poured by women artisans. Meet your new obsession. 🕯️
+              - generic [ref=e188]:
+                - generic [ref=e189]: "#SEWAproducts"
+                - generic [ref=e190]: "#LuxuryIncense"
+                - generic [ref=e191]: "#CharcoalFree"
+                - generic [ref=e192]: "#Handcrafted"
+                - generic [ref=e193]: "#SustainableLuxury"
+            - generic [ref=e194]: 11:07 pm
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - generic [ref=e198]:
+                - generic [ref=e199]: pending
+                - generic [ref=e200]: instagram
+                - generic [ref=e201]: reel
+              - paragraph [ref=e202]: Women Behind SEWA
+              - paragraph [ref=e203]: When you buy SEWA, you're not just buying incense. You're buying a woman's independence. 👩‍🎨
+              - generic [ref=e204]:
+                - generic [ref=e205]: "#Reels"
+                - generic [ref=e206]: "#SEWAaromas"
+                - generic [ref=e207]: "#IncenseReel"
+                - generic [ref=e208]: "#TrendingReel"
+                - generic [ref=e209]: "#ExplorePage"
+            - generic [ref=e210]: 11:07 pm
+          - generic [ref=e212]:
+            - generic [ref=e213]:
+              - generic [ref=e214]:
+                - generic [ref=e215]: pending
+                - generic [ref=e216]: instagram
+                - generic [ref=e217]: story
+              - paragraph [ref=e218]: Story 1
+              - paragraph [ref=e219]: "Quick poll: What matters most to you? A) Toxin-free B) Charcoal-free C) Women-made D) All of the above"
+            - generic [ref=e220]: 11:07 pm
+          - generic [ref=e222]:
+            - generic [ref=e223]:
+              - generic [ref=e224]:
+                - generic [ref=e225]: pending
+                - generic [ref=e226]: instagram
+                - generic [ref=e227]: story
+              - paragraph [ref=e228]: Story 2
+              - paragraph [ref=e229]: "Customer of the week: @[tag] thank you for choosing conscious luxury 💛"
+            - generic [ref=e230]: 11:07 pm
+          - generic [ref=e232]:
+            - generic [ref=e233]:
+              - generic [ref=e234]:
+                - generic [ref=e235]: pending
+                - generic [ref=e236]: instagram
+                - generic [ref=e237]: reel
+              - paragraph [ref=e238]: Plastic-Free Unboxing
+              - paragraph [ref=e239]: "ASMR unboxing: paper wrap, box opening, incense reveal. Zero plastic. Maximum satisfaction. 🌍"
+              - generic [ref=e240]:
+                - generic [ref=e241]: "#Reels"
+                - generic [ref=e242]: "#SEWAaromas"
+                - generic [ref=e243]: "#IncenseReel"
+                - generic [ref=e244]: "#TrendingReel"
+                - generic [ref=e245]: "#ExplorePage"
+            - generic [ref=e246]: 11:07 pm
+          - generic [ref=e248]:
+            - generic [ref=e249]:
+              - generic [ref=e250]:
+                - generic [ref=e251]: pending
+                - generic [ref=e252]: amazon
+                - generic [ref=e253]: listing
+              - paragraph [ref=e254]: SEWA Sandalwood Incense Sticks — Charcoal-Free Luxury Fragrance | Recycled Temple Flowers | 100 Sticks | 50% More Fragrance, Less Smoke
+              - paragraph [ref=e255]: "{\"title\":\"SEWA Sandalwood Incense Sticks — Charcoal-Free Luxury Fragrance | Recycled Temple Flowers | 100 Sticks | 50% More Fragrance, Less Smoke\",\"bulletPoints\":[\"Charcoal-free — clean, safe burning with no harmful chemicals or synthetic additives\",\"50% more fragrance diffusion with premium essential oils and significantly less smoke\",\"100% phthalate-free and toxin-free — safe for your family and indoor air quality\",\"Handcrafted by women artisans — every purchase supports empowerment\",\"100% plastic-free sustainable packaging — luxury without the waste\"],\"description\":\"Discover SEWA: luxury fragrance reimagined. Our Sandalwood Incense Sticks is crafted from high-quality natural botanicals — completely charcoal-free, phthalate-free, and toxin-free — and infused with premium essential oils for 50% more fragrance diffusion with less smoke. Every product is handcrafted by women artisans and packaged in 100% plastic-free materials. Made for the conscious home that refuses to compromise on quality. 100 Sticks — ideal for daily rituals, meditation, and gifting.\"}"
+            - generic [ref=e256]: 11:07 pm
+  - contentinfo [ref=e257]:
+    - generic [ref=e258]:
+      - generic [ref=e259]:
+        - heading "SEWA" [level=3] [ref=e260]
+        - paragraph [ref=e261]: Sacred fragrances for your space. Premium incense, candles, diffusers, and more — crafted to elevate every moment.
+      - generic [ref=e262]:
+        - heading "Quick Links" [level=4] [ref=e263]
+        - generic [ref=e264]:
+          - link "Products" [ref=e265] [cursor=pointer]:
+            - /url: /products
+          - link "Blog" [ref=e266] [cursor=pointer]:
+            - /url: /blog
+          - link "Amazon Store" [ref=e267] [cursor=pointer]:
+            - /url: https://www.amazon.in
+      - generic [ref=e268]:
+        - heading "Find Us On" [level=4] [ref=e269]
+        - generic [ref=e270]:
+          - generic [ref=e271]: Amazon
+          - generic [ref=e272]: Blinkit
+          - generic [ref=e273]: Zepto
+          - generic [ref=e274]: Ajio
+          - generic [ref=e275]: Reliance
+    - generic [ref=e276]: © 2026 SEWA. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e282] [cursor=pointer]:
+    - img [ref=e283]
+  - alert [ref=e286]

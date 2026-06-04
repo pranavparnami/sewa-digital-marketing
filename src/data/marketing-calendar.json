@@ -1,0 +1,330 @@
+{
+  "updatedAt": "2026-06-04",
+  "events": [
+    {
+      "name": "Rath Yatra",
+      "date": "2026-07-04",
+      "type": "festival",
+      "priority": "medium",
+      "relevance": "Temple festival — strong cultural connect. Camphor and incense sales spike.",
+      "contentIdeas": [
+        "Rath Yatra special: temple-inspired fragrance post",
+        "Story post: 'The journey from temples to your home'",
+        "Limited edition Rath Yatra camphor pack"
+      ],
+      "hashtags": ["#RathYatra", "#JagannathPuri", "#IndianFestival", "#TempleTradition"]
+    },
+    {
+      "name": "Guru Purnima",
+      "date": "2026-07-11",
+      "type": "festival",
+      "priority": "medium",
+      "relevance": "Spiritual festival — incense and meditation products sell well. Gifting opportunity.",
+      "contentIdeas": [
+        "Guru Purnima gift guide: incense + diffuser combos",
+        "Post: 'Fragrance as a tribute to your gurus'",
+        "Special Guru Purnima discount code"
+      ],
+      "hashtags": ["#GuruPurnima", "#GuruPoornima", "#SpiritualGifts", "#Gratitude"]
+    },
+    {
+      "name": "Monsoon Season Launch",
+      "date": "2026-07-15",
+      "type": "seasonal",
+      "priority": "high",
+      "relevance": "Monsoon = indoor time = home fragrance sales surge. Diffusers and candles perform best.",
+      "contentIdeas": [
+        "'Rainy day rituals' — incense + chai + books aesthetic reel",
+        "Monsoon home fragrance guide carousel",
+        "Flash sale: 20% off diffusers for the rainy season",
+        "ASMR reel: rain sounds + incense lighting"
+      ],
+      "hashtags": ["#MonsoonVibes", "#RainyDayRituals", "#CozyHome", "#MonsoonSale"]
+    },
+    {
+      "name": "Independence Day",
+      "date": "2026-08-15",
+      "type": "national",
+      "priority": "high",
+      "relevance": "Major patriotic moment. 'Made in India' + women empowerment narrative.",
+      "contentIdeas": [
+        "'Proudly Indian. Proudly SEWA.' — women artisans campaign",
+        "Independence Day sale: 15% off with code INDIA15",
+        "Video: Our women artisans talk about independence"
+      ],
+      "hashtags": ["#IndependenceDay", "#MadeInIndia", "#WomenEmpowerment", "#VocalForLocal"]
+    },
+    {
+      "name": "Raksha Bandhan",
+      "date": "2026-08-19",
+      "type": "festival",
+      "priority": "high",
+      "relevance": "Major gifting festival. Incense gift boxes, candle sets, diffuser combos ideal.",
+      "contentIdeas": [
+        "'Gift your sibling clean luxury' — SEWA gift box campaign",
+        "Rakhi special combo: incense + candle gift pack",
+        "UGC campaign: 'What did your sibling gift you this Rakhi?'"
+      ],
+      "hashtags": ["#RakshaBandhan", "#RakhiGifts", "#GiftIdeas", "#SiblingLove"]
+    },
+    {
+      "name": "Janmashtami",
+      "date": "2026-08-25",
+      "type": "festival",
+      "priority": "medium",
+      "relevance": "Devotional festival. Camphor, incense sticks, and dhoop for pooja.",
+      "contentIdeas": [
+        "Janmashtami pooja essentials kit",
+        "Post: 'Fragrance fit for the divine'",
+        "Story: pooja room setup with SEWA products"
+      ],
+      "hashtags": ["#Janmashtami", "#KrishnaJanmashtami", "#PoojaEssentials", "#Divine"]
+    },
+    {
+      "name": "Ganesh Chaturthi",
+      "date": "2026-09-07",
+      "type": "festival",
+      "priority": "high",
+      "relevance": "One of India's biggest festivals. 10-day celebration. Massive incense/camphor demand.",
+      "contentIdeas": [
+        "'Welcome Bappa with pure fragrance' — campaign",
+        "Ganesh Chaturthi pooja kit (camphor + incense + dhoop)",
+        "10-day content series: daily pooja ritual with SEWA",
+        "Influencer collab: Ganesh Chaturthi home mandir setup"
+      ],
+      "hashtags": ["#GaneshChaturthi", "#GanpatiBappa", "#PoojaEssentials", "#BappaMorya"]
+    },
+    {
+      "name": "Amazon Great Indian Festival",
+      "date": "2026-09-25",
+      "type": "sale",
+      "priority": "high",
+      "relevance": "Amazon's biggest sale. Stock up inventory 2 weeks prior. Optimize listings. Increase ad spend.",
+      "contentIdeas": [
+        "Teaser campaign: 'Biggest sale of the year coming'",
+        "Amazon deal announcement posts and stories",
+        "Lightning deal promotion",
+        "A+ Content refresh for sale period"
+      ],
+      "hashtags": ["#AmazonGreatIndianFestival", "#AmazonSale", "#Deals", "#ShoppingFestival"]
+    },
+    {
+      "name": "Navratri",
+      "date": "2026-09-29",
+      "type": "festival",
+      "priority": "high",
+      "relevance": "9 nights of celebration. Daily pooja + garba. Incense, camphor, dhoop essentials.",
+      "contentIdeas": [
+        "9-day Navratri content calendar: one fragrance for each goddess",
+        "Navratri pooja starter kit",
+        "Garba night? Come home to calming SEWA fragrance"
+      ],
+      "hashtags": ["#Navratri", "#Navratri2026", "#Devi", "#Shakti", "#FestivalVibes"]
+    },
+    {
+      "name": "Dussehra",
+      "date": "2026-10-07",
+      "type": "festival",
+      "priority": "medium",
+      "relevance": "Triumph of good over evil. Strong narrative play for 'toxin-free vs toxins'.",
+      "contentIdeas": [
+        "'Burn the toxins, not the goodness' — Dussehra special post",
+        "Good vs evil: charcoal incense vs SEWA charcoal-free"
+      ],
+      "hashtags": ["#Dussehra", "#Vijayadashami", "#GoodOverEvil", "#ToxinFree"]
+    },
+    {
+      "name": "Flipkart Big Billion Days",
+      "date": "2026-10-10",
+      "type": "sale",
+      "priority": "high",
+      "relevance": "Flipkart's biggest sale. Multi-platform presence essential.",
+      "contentIdeas": [
+        "Cross-platform deal promotion",
+        "Exclusive Flipkart bundles",
+        "Flash sale countdown stories"
+      ],
+      "hashtags": ["#BigBillionDays", "#FlipkartSale", "#ShoppingFestival", "#Deals"]
+    },
+    {
+      "name": "Karwa Chauth",
+      "date": "2026-10-15",
+      "type": "festival",
+      "priority": "medium",
+      "relevance": "Women-centric festival. Perfect for women empowerment narrative + pooja products.",
+      "contentIdeas": [
+        "Karwa Chauth evening ritual: incense + diya + prayer",
+        "'Made by women. Celebrated by women.' campaign",
+        "Gift guide: what to gift the woman who fasts for you"
+      ],
+      "hashtags": ["#KarwaChauth", "#Sargi", "#WomenFirst", "#MadeByWomen"]
+    },
+    {
+      "name": "Dhanteras",
+      "date": "2026-10-25",
+      "type": "festival",
+      "priority": "high",
+      "relevance": "First day of Diwali. Auspicious buying day. Perfect for premium product positioning.",
+      "contentIdeas": [
+        "Dhanteras special: luxury gift boxes for auspicious buying",
+        "'Bring prosperity home with pure fragrance' campaign",
+        "Limited edition Dhanteras packaging"
+      ],
+      "hashtags": ["#Dhanteras", "#Dhanteras2026", "#AuspiciousBuying", "#DiwaliPrep"]
+    },
+    {
+      "name": "Diwali",
+      "date": "2026-10-28",
+      "type": "festival",
+      "priority": "critical",
+      "relevance": "BIGGEST festival. Peak incense/camphor/diya season. Maximum sales potential. Stock 4x.",
+      "contentIdeas": [
+        "Diwali campaign: 'Light Up Clean This Diwali'",
+        "Premium Diwali gift hamper (incense + candle + diffuser + camphor)",
+        "30-day Diwali countdown content series",
+        "Diwali pooja essentials kit",
+        "Corporate gifting: bulk SEWA hampers",
+        "Influencer Diwali home tour featuring SEWA",
+        "Diwali sale: 25% off on all gift boxes"
+      ],
+      "hashtags": ["#Diwali", "#Diwali2026", "#FestivalOfLights", "#DiwaliGifts", "#CleanDiwali"]
+    },
+    {
+      "name": "Bhai Dooj",
+      "date": "2026-10-30",
+      "type": "festival",
+      "priority": "medium",
+      "relevance": "Sibling festival. Gifting opportunity — last call before Diwali season ends.",
+      "contentIdeas": [
+        "Last-minute Bhai Dooj gift ideas",
+        "Post-Diwali gratitude post + Bhai Dooj connect"
+      ],
+      "hashtags": ["#BhaiDooj", "#SiblingLove", "#FestivalGifting"]
+    },
+    {
+      "name": "Wedding Season",
+      "date": "2026-11-15",
+      "type": "seasonal",
+      "priority": "high",
+      "relevance": "Indian wedding season begins. Massive gifting market — hampers, return gifts, decor.",
+      "contentIdeas": [
+        "Wedding return gift hampers featuring SEWA",
+        "'Fragrance for the big day' — wedding decor incense",
+        "Corporate bulk order campaign for wedding planners",
+        "Premium wedding gift collection launch"
+      ],
+      "hashtags": ["#WeddingSeason", "#IndianWedding", "#WeddingGifts", "#Shaadi"]
+    },
+    {
+      "name": "Christmas",
+      "date": "2026-12-25",
+      "type": "festival",
+      "priority": "high",
+      "relevance": "Global gifting season. Premium candle and diffuser sales spike. Urban audience.",
+      "contentIdeas": [
+        "Christmas gift guide: SEWA luxury fragrance gifts",
+        "Holiday collection: limited edition Christmas candles",
+        "Secret Santa gifting ideas under ₹999"
+      ],
+      "hashtags": ["#Christmas", "#ChristmasGifts", "#HolidaySeason", "#SecretSanta"]
+    },
+    {
+      "name": "New Year",
+      "date": "2027-01-01",
+      "type": "seasonal",
+      "priority": "high",
+      "relevance": "New beginnings. Resolution season — 'clean living, toxin-free' messaging resonates.",
+      "contentIdeas": [
+        "New Year campaign: 'Start Clean. Stay Clean.'",
+        "New Year resolution: 'Switch to toxin-free fragrance'",
+        "January detox series: clean home, clean fragrance"
+      ],
+      "hashtags": ["#NewYear", "#NewYear2027", "#CleanStart", "#Resolution"]
+    },
+    {
+      "name": "Makar Sankranti / Pongal",
+      "date": "2027-01-14",
+      "type": "festival",
+      "priority": "medium",
+      "relevance": "Harvest festival. Regional significance — tailor content for Maharashtra, Gujarat, South India.",
+      "contentIdeas": [
+        "Sankranti special: regional fragrance stories",
+        "Pongal pooja essentials post",
+        "Kite flying day? Wind down with SEWA fragrance"
+      ],
+      "hashtags": ["#MakarSankranti", "#Pongal", "#Lohri", "#HarvestFestival"]
+    },
+    {
+      "name": "Republic Day",
+      "date": "2027-01-26",
+      "type": "national",
+      "priority": "medium",
+      "relevance": "Patriotic moment. 'Women-made in India' message + Republic Day sale.",
+      "contentIdeas": [
+        "'Handcrafted in India. Loved worldwide.' campaign",
+        "Republic Day flash sale: 26% off"
+      ],
+      "hashtags": ["#RepublicDay", "#India", "#MadeInIndia", "#WomenOfIndia"]
+    },
+    {
+      "name": "Valentine's Day",
+      "date": "2027-02-14",
+      "type": "seasonal",
+      "priority": "high",
+      "relevance": "Gifting + romantic fragrance. Candles, reed diffusers, and luxury incense sets.",
+      "contentIdeas": [
+        "Valentine's gift guide: 'Scents of Love' collection",
+        "Couple's ritual: incense + candle date night post",
+        "Limited edition Valentine's candle in rose + vanilla"
+      ],
+      "hashtags": ["#ValentinesDay", "#GiftsForHer", "#RomanticGifts", "#ScentOfLove"]
+    },
+    {
+      "name": "Maha Shivratri",
+      "date": "2027-02-22",
+      "type": "festival",
+      "priority": "medium",
+      "relevance": "Major spiritual festival. Incense, camphor, dhoop for all-night pooja.",
+      "contentIdeas": [
+        "Shivratri pooja essentials pack",
+        "Post: 'The fragrance that pleases Shiva'",
+        "All-night jagran? Stay refreshed with SEWA camphor"
+      ],
+      "hashtags": ["#MahaShivratri", "#HarHarMahadev", "#Shivratri", "#PoojaEssentials"]
+    },
+    {
+      "name": "Holi",
+      "date": "2027-03-06",
+      "type": "festival",
+      "priority": "high",
+      "relevance": "Festival of colors. Post-Holi: 'cleanse your space' narrative — diffusers, incense, candles.",
+      "contentIdeas": [
+        "Pre-Holi: gift hampers for Holi parties",
+        "Post-Holi: 'Cleanse your home after the colors' campaign",
+        "Holi special: fragrance as vibrant as the festival",
+        "Toxin-free Holi gifting"
+      ],
+      "hashtags": ["#Holi", "#Holi2027", "#FestivalOfColors", "#HoliGifts"]
+    },
+    {
+      "name": "International Women's Day",
+      "date": "2027-03-08",
+      "type": "awareness",
+      "priority": "high",
+      "relevance": "SEWA's biggest narrative day. Women-made, women-empowered. Central to brand DNA.",
+      "contentIdeas": [
+        "Meet all the women artisans behind SEWA — video campaign",
+        "Women's Day special: 'Every purchase empowers a woman'",
+        "Collaborate with women influencers and entrepreneurs",
+        "Limited edition Women's Day packaging",
+        "Donation campaign: percentage to women's causes"
+      ],
+      "hashtags": ["#WomensDay", "#IWD2027", "#WomenEmpowerment", "#SheMadeThis"]
+    }
+  ],
+  "recurringMonthly": [
+    { "name": "New Month Reset", "timing": "1st of month", "idea": "Monthly ritual: clean your space with SEWA. 'New month, clean fragrance.'" },
+    { "name": "Pay Day Sale", "timing": "Last week", "idea": "End-of-month flash sale: 15% off — treat yourself." },
+    { "name": "Full Moon Ritual", "timing": "Full moon day", "idea": "Purnima special: full moon meditation with SEWA incense." }
+  ]
+}

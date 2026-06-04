@@ -1,0 +1,136 @@
+{
+  "brand": "SEWA",
+  "updatedAt": "2026-06-04",
+  "platforms": [
+    {
+      "name": "Amazon India",
+      "url": "https://sellercentral.amazon.in",
+      "registration": "GST, PAN, Bank Account, Mobile + Email",
+      "feeStructure": {
+        "individualPlan": "₹0/month + ₹10 per item + referral fee",
+        "professionalPlan": "₹500/month + referral fee only"
+      },
+      "fulfillment": {
+        "fba": "Amazon stores, packs, ships. Prime badge. Higher conversion.",
+        "mfn": "You store, Amazon picks up on order. Lower fees, more control."
+      },
+      "listingMustHaves": [
+        "7+ high-quality images (main white BG + lifestyle + packaging + features + size scale + ingredients + variations)",
+        "Keyword-rich title: Brand + Category + Feature + Size + Material",
+        "5 bullet points highlighting material, usage, quantity, benefit, certification",
+        "A+ Content with rich images and detailed descriptions",
+        "Backend search terms (250 bytes max)",
+        "Competitive pricing (10-15% below top competitors for launch)"
+      ],
+      "categoriesForSEWA": [
+        "Home & Kitchen > Home Fragrance > Incense & Incense Holders",
+        "Home & Kitchen > Candles & Holders > Scented Candles",
+        "Home & Kitchen > Home Fragrance > Reed Diffusers",
+        "Health & Personal Care > Aromatherapy > Essential Oils",
+        "Home & Kitchen > Pooja Needs > Camphor & Dhoop"
+      ],
+      "advertisingTips": [
+        "Start with Sponsored Products at ₹200-300/day",
+        "Use automatic targeting for first 2 weeks to discover keywords",
+        "Switch to manual targeting with top-performing keywords",
+        "Enroll in Vine Program for early reviews",
+        "Apply for Lightning Deals after 4+ weeks"
+      ]
+    },
+    {
+      "name": "Blinkit",
+      "url": "https://seller.blinkit.com",
+      "bestFor": "Quick-commerce impulse purchases. Best for candles, camphor, and small incense packs.",
+      "listingTips": [
+        "Keep packs small and affordable (₹99-₹299 range)",
+        "Use bright, eye-catching listing images",
+        "Focus on instant-use products (small packs, trial sizes)",
+        "Highlight '10-minute delivery' benefit in descriptions",
+        "Run platform-specific promotions during festivals"
+      ],
+      "recommendedProducts": [
+        "Small candle tins (₹149-₹199)",
+        "Incense stick packs of 20-30 (₹99-₹149)",
+        "Camphor tablets (₹49-₹79)",
+        "Diffuser oil 10ml trial bottles (₹199)"
+      ]
+    },
+    {
+      "name": "Zepto",
+      "url": "https://seller.zeptonow.com",
+      "bestFor": "Quick-commerce targeting urban professionals. Fastest-growing platform.",
+      "listingTips": [
+        "Optimize for 'late-night' and 'emergency' searches",
+        "Premium positioning works well (customers pay for speed)",
+        "Bundle products (e.g., candle + matches, incense + holder)",
+        "Use lifestyle imagery that resonates with young urban audience",
+        "Keep inventory in dark stores for fastest delivery"
+      ],
+      "recommendedProducts": [
+        "Premium scented candles (₹299-₹499)",
+        "Reed diffuser starter kits (₹399-₹599)",
+        "Incense cones variety packs (₹199)",
+        "Essential oil gift sets (₹499-₹799)"
+      ]
+    },
+    {
+      "name": "Ajio",
+      "url": "https://seller.ajio.com",
+      "bestFor": "Fashion-forward home products. Targets style-conscious, younger audience.",
+      "listingTips": [
+        "Focus on aesthetic packaging and design-forward presentation",
+        "Style products as lifestyle accessories, not just functional items",
+        "Use aspirational imagery and model shots",
+        "Participate in Ajio sales events (End of Season, Festival Sales)",
+        "Highlight gifting potential with gift-ready packaging"
+      ],
+      "recommendedProducts": [
+        "Designer jar candles (₹399-₹799)",
+        "Premium reed diffuser sets (₹599-₹999)",
+        "Gift boxes with assorted fragrances (₹499-₹899)",
+        "Decorative incense holders with sticks (₹399-₹699)"
+      ]
+    },
+    {
+      "name": "Reliance Retail (JioMart)",
+      "url": "https://seller.jiomart.com",
+      "bestFor": "Mass-market reach across India. Strong in Tier 2-3 cities.",
+      "listingTips": [
+        "Price competitively — value-conscious audience",
+        "Multi-pack family bundles sell well (e.g., 6-month supply)",
+        "Use Hindi + English descriptions for wider reach",
+        "Leverage Reliance's offline store network for omnichannel",
+        "Focus on traditional products: camphor, agarbatti, dhoop"
+      ],
+      "recommendedProducts": [
+        "Economy incense stick bulk packs (₹149-₹249 for 200+ sticks)",
+        "Camphor value packs (₹99 for 500g)",
+        "Dhoop cups multipacks (₹199)",
+        "Diwali/pooja combo kits (₹299-₹599)"
+      ]
+    }
+  ],
+  "optimizationChecklist": [
+    "Professional product photography with white background for main image",
+    "Lifestyle and in-use imagery (2-3 images per product)",
+    "Keyword research using Helium 10, Jungle Scout, or Amazon Brand Analytics",
+    "Competitor analysis: top 5 listings in each category",
+    "Pricing strategy: competitive launch price, then optimize based on conversion",
+    "Inventory planning: 4-6 weeks of stock at all times",
+    "Review strategy: Vine Program, follow-up emails, insert cards",
+    "A+ Content / Enhanced Brand Content for all listings",
+    "Regular price monitoring and repricing (weekly)",
+    "Festival readiness: stock up 2 weeks before Diwali, Navratri, Ganesh Chaturthi"
+  ],
+  "sewaProductListingTemplate": {
+    "titleFormat": "SEWA {Product Name} — {Key Feature} | {Size/Quantity} | {Material}",
+    "bulletPointTemplate": [
+      "Made with {ingredients} for a pure, natural {experience}",
+      "{usage_instruction} — burn time / duration: {time}",
+      "Pack contains {quantity} — {packaging_detail}",
+      "{primary_benefit} — ideal for {use_case}",
+      "No synthetic fragrances, no harmful chemicals — {certification_claim}"
+    ],
+    "exampleTitle": "SEWA Sandalwood Incense Sticks — Long-Lasting Natural Agarbatti | 100 Sticks (Pack of 2) | Hand-Rolled | Meditation & Pooja"
+  }
+}

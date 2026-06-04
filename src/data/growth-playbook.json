@@ -1,0 +1,127 @@
+{
+  "updatedAt": "2026-06-04",
+  "section": "growth-playbook",
+  "topPriorities": [
+    {
+      "id": "fragrance-quiz",
+      "name": "Fragrance Quiz / AI Scent Recommender",
+      "impact": "20-35% conversion boost for first-time buyers",
+      "why": "Zero competitors have a recommendation engine. Incense has 50+ variants — customers abandon without guidance. Quiz → personalized match = higher conversion, lower returns.",
+      "implementation": "5-question quiz: 1) Occasion (meditation/pooja/relaxation/gifting), 2) Scent preference (floral/woody/fresh/spicy), 3) Intensity (mild/medium/intense), 4) Format (stick/cone/diffuser/candle), 5) Budget. Rule-based matching to products. Display personalized result + 'Add to Cart' CTA.",
+      "difficulty": "Low",
+      "revenueImpact": "20% conversion improvement"
+    },
+    {
+      "id": "subscription-model",
+      "name": "Subscription & Discovery Box",
+      "impact": "₹15-25L ARR, 60%+ retention vs 18% repurchase",
+      "why": "Incense is consumable — customers repurchase every 2-4 weeks. No competitor offers subscriptions. Recurring revenue = predictable inventory + higher LTV.",
+      "implementation": "Tiers: Discovery (₹499/mo — 4 surprise fragrances), Essentials (₹299/mo — your 2 favorites), Premium (₹799/mo — full ritual kit). 10% off monthly, 15% off quarterly, 20% off bi-annual. Free shipping always.",
+      "difficulty": "Medium",
+      "revenueImpact": "₹15-25L ARR year 1"
+    },
+    {
+      "id": "packaging-viral",
+      "name": "Packaging Designed for Virality",
+      "impact": "5-10K earned Instagram posts/year, zero ad cost",
+      "why": "Every unboxing = free post to 300+ followers. Phool's packaging is plain brown boxes. SEWA can own the unboxing experience.",
+      "implementation": "Seed-paper outer box (plantable tuls), artisan-written note inside lid ('Hand-rolled by Asha'), magnetic flap closure (premium feel, zero plastic), QR code → video message from artisan, transparent viewing window.",
+      "difficulty": "Low-Medium",
+      "revenueImpact": "Earned media worth ₹10-20L/year"
+    },
+    {
+      "id": "community-loyalty",
+      "name": "Community & Loyalty Program",
+      "impact": "Repeat rate from 18% → 40%+, LTV 3-5x higher",
+      "why": "No incense brand has a loyalty program. Community members have 3-5x LTV. Ambassador programs (Mamaearth model) drive 20-35% of new acquisitions.",
+      "implementation": "Tiered: Bronze (any purchase → birthday surprise), Silver (₹2K/yr → free shipping + 5% cashback), Gold (₹5K/yr → early access + 10% cashback), Platinum (₹10K/yr → quarterly gift + design your own box). Ambassador: 10% lifetime commission. #SEWAFamily Instagram community.",
+      "difficulty": "Medium",
+      "revenueImpact": "2x repeat rate, 25% new customers via referrals"
+    },
+    {
+      "id": "dark-store-delivery",
+      "name": "Same-Day Delivery via Dark Stores",
+      "impact": "30% repeat rate increase, impulse purchases captured",
+      "why": "Incense is an impulse category. 3-day delivery kills impulse. Same-day in top-6 cities = game-changer. Phool ships from Kanpur (3-7 days).",
+      "implementation": "Partner with Shadowfax/Dunzo dark stores in Mumbai, Delhi, Bangalore, Pune, Hyderabad, Chennai. Stock top-10 SKUs in each. Kirana premium store QR code partnerships for 2-hour delivery. Add Blinkit/Zepto 10-min delivery for top SKUs.",
+      "difficulty": "Medium",
+      "revenueImpact": "30% repeat rate improvement"
+    }
+  ],
+  "aggressiveSalesTactics": {
+    "whatsappCommerce": {
+      "headline": "WhatsApp Commerce — 90% open rate, 3x email conversion",
+      "tactics": [
+        "WhatsApp Business API catalog with all 8 products + checkout via UPI",
+        "Abandoned cart recovery: DM at 1h, 24h, 72h — 25-35% recovery rate",
+        "Flash sales: 'Next 30 min — 25% OFF. Reply BUY to order.'",
+        "Broadcast weekly to opted-in customers (max 2/week)",
+        "Order confirmations + tracking via WhatsApp (preferred over email in India)",
+        "Re-order reminder at day 25 post-purchase: 'Running low? Restock now.'",
+        "VIP Broadcast list: exclusive products, early access"
+      ],
+      "tools": ["Interakt (₹2.5K-5K/mo) — best for India", "WATI ($49-149/mo)", "WhatsApp Pay for in-chat checkout"]
+    },
+    "referralProgram": {
+      "headline": "Double-sided UPI Cashback Referral — India's most viral mechanic",
+      "tactics": [
+        "Give ₹100, Get ₹100 — both referrer and friend get ₹100 UPI cashback (not store credit)",
+        "UPI cashback converts 2x better than store credit in India",
+        "Referral card inside every package with QR code",
+        "WhatsApp share button with pre-filled referral message",
+        "Tiered rewards: 5 referrals = early access, 10 = free product, 25 = 'SEWA Ambassador' badge",
+        "Post-purchase page: most impactful timing for referral ask"
+      ],
+      "tools": ["ReferralCandy (₹33/mo + 8%)", "Growave (₹199/mo Shopify)", "Razorpay Payouts for UPI cashback"]
+    },
+    "festivalDomination": {
+      "headline": "Own 12 festival boxes/year — ₹50L-1Cr gifting revenue",
+      "tactics": [
+        "12 festival-specific boxes: Diwali, Holi, Ganesh Chaturthi, Navratri, Rakhi, Eid, Christmas, Pongal, Onam, Durga Puja, Guru Purnima, New Year",
+        "Surge pricing: Box price increases as festival approaches (₹999 → ₹1,199 → ₹1,499)",
+        "Self-serve corporate gifting portal: upload CSV, customize, schedule delivery",
+        "Early-bird pricing 60 days before each festival",
+        "Amazon + Blinkit festival category tag applications",
+        "Email + WhatsApp festival countdown sequences"
+      ]
+    },
+    "influencerArmy": {
+      "headline": "100 micro-influencers at ₹1,000 avg = ₹1L/mo = 500+ orders",
+      "tactics": [
+        "Micro-influencers (1K-10K followers): 5-10% engagement, ₹500-3,000/post",
+        "Performance model: 10% commission + ₹500 bonus if 50+ units sold",
+        "Gift 100 micro-influencers product (₹15K cost → 15-20 organic posts)",
+        "Focus niches: yoga instructors, clean-living creators, home decor, women empowerment, spiritual/pooja",
+        "UTM links + unique discount codes per influencer for tracking",
+        "Cut bottom 80% monthly — keep only top 20% performers"
+      ],
+      "tools": ["Qoruz (₹15K-50K/mo) — India influencer discovery", "Shopify Collabs (free)"]
+    }
+  },
+  "contentFormatsWinning": {
+    "reel": [
+      { "type": "Clean Burn Test", "length": "15 sec", "idea": "Split screen: charcoal incense (heavy smoke) vs SEWA (minimal, clean). Text: '50% more fragrance. Tap to switch.'", "why": "Highest-converting format for fragrance category" },
+      { "type": "ASMR Unboxing", "length": "20 sec", "idea": "No talking. Paper rustle, match strike, gentle blow, smoke swirl. Original audio.", "why": "ASMR incense has 500M+ YouTube views — no brand owns this space" },
+      { "type": "Meet the Artisan", "length": "15-20 sec", "idea": "Close-up hands + face of woman artisan. Her story on text overlay. End: the product she made.", "why": "Emotional connection = 3x engagement vs product shots" }
+    ],
+    "carousel": [
+      { "type": "5 Toxins in Your Incense", "slides": 7, "idea": "Hook → 5 toxin slides with SEWA alternative → CTA. Educational = saves = algorithm boost.", "why": "Carousels get highest engagement of all formats" },
+      { "type": "Gift Guide by Budget", "slides": 5, "idea": "₹299 / ₹499 / ₹999 / ₹1,999 options. Each slide: product + who it's for.", "why": "Gifting content = high shareability during festivals" }
+    ],
+    "liveStreaming": [
+      { "type": "Scent of the Week", "platform": "IG Live", "idea": "Every Saturday 7 PM. Light 3 scents, describe them, answer Q&A. Live-only 10% discount.", "why": "IG Live shopping AOV = ₹850-1,200 vs ₹350-500 for shop posts" },
+      { "type": "Meet the Artisan Live", "platform": "IG Live / YouTube", "idea": "Monthly: artisan demonstrates handcrafting, talks about her life. Real-time audience questions.", "why": "Authenticity = trust = conversion. Zero brands do this" }
+    ]
+  },
+  "aiWorkflow": {
+    "headline": "AI-First Content Engine — 80% of content AI-drafted, 20% human-refined",
+    "existing": "24/7 agent already auto-generates posts, reels, stories, listings, creatives",
+    "toBuild": [
+      "Brand voice training: feed top 10 best-performing posts as examples to model",
+      "A/B testing engine: generate 3 caption variants, track engagement, auto-select winner",
+      "Performance feedback loop: low-engagement posts auto-regenerate with new angles",
+      "Human approval gate: AI drafts → human approves → posts",
+      "AI chatbot extension: train on all products + use cases, answer 'Which incense for sleep?'"
+    ]
+  }
+}

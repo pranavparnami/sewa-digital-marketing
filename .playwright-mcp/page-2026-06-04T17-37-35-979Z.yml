@@ -1,0 +1,165 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "SEWA" [ref=e4] [cursor=pointer]:
+        - /url: /
+      - navigation [ref=e5]:
+        - link "Home" [ref=e6] [cursor=pointer]:
+          - /url: /
+        - link "Products" [ref=e7] [cursor=pointer]:
+          - /url: /products
+        - link "Blog" [ref=e8] [cursor=pointer]:
+          - /url: /blog
+        - link "Agent" [ref=e9] [cursor=pointer]:
+          - /url: /agent
+        - link "Instagram" [ref=e10] [cursor=pointer]:
+          - /url: https://www.instagram.com
+  - main [ref=e11]:
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - heading "Our Products" [level=1] [ref=e14]
+        - paragraph [ref=e15]: Explore our complete range of sacred fragrances — from traditional incense to modern diffusers
+      - generic [ref=e16]:
+        - heading "Incense Sticks" [level=2] [ref=e17]: Incense Sticks
+        - generic [ref=e19]:
+          - generic [ref=e20]:
+            - generic [ref=e22]: 🪔
+            - heading "Sandalwood Incense Sticks" [level=3] [ref=e23]
+            - paragraph [ref=e24]: Luxury charcoal-free incense sticks infused with pure sandalwood essential oils. Burns clean with 50% more fragrance diffusion and minimal smoke — a warm, woody aroma that transforms any space into a sanctuary. Phthalate-free, toxin-free, and made with high-quality natural botanicals.
+            - generic [ref=e25]:
+              - generic [ref=e26]: Charcoal-free — clean and safe for indoor use
+              - generic [ref=e27]: 50% more fragrance diffusion for lasting aroma
+            - paragraph [ref=e28]: "Ingredients: Natural botanical base, pure sandalwood essential oil, aromatic plant extracts, natural binding agents"
+            - generic [ref=e29]:
+              - link "Buy on Amazon" [ref=e30] [cursor=pointer]:
+                - /url: https://www.amazon.in
+              - link "Instagram" [ref=e31] [cursor=pointer]:
+                - /url: https://www.instagram.com
+          - generic [ref=e32]:
+            - generic [ref=e34]: 🪔
+            - heading "Nag Champa Incense Sticks" [level=3] [ref=e35]
+            - paragraph [ref=e36]: The iconic Nag Champa reimagined as a charcoal-free luxury experience. Infused with champaka and sandalwood essential oils on a high-quality natural botanical base. Burns with 50% more fragrance, less smoke, and the unmistakable depth of a classic.
+            - generic [ref=e37]:
+              - generic [ref=e38]: Charcoal-free luxury Nag Champa
+              - generic [ref=e39]: 50% more fragrance diffusion
+            - paragraph [ref=e40]: "Ingredients: Natural botanical base, champaka flower extract, sandalwood essential oil, natural plant binders"
+            - generic [ref=e41]:
+              - link "Buy on Amazon" [ref=e42] [cursor=pointer]:
+                - /url: https://www.amazon.in
+              - link "Instagram" [ref=e43] [cursor=pointer]:
+                - /url: https://www.instagram.com
+      - generic [ref=e44]:
+        - heading "Cones" [level=2] [ref=e45]: Cones
+        - generic [ref=e48]:
+          - generic [ref=e50]: 🔺
+          - heading "Rose Incense Cones" [level=3] [ref=e51]
+          - paragraph [ref=e52]: Exquisite charcoal-free incense cones infused with pure rose extracts. Backflow-compatible for a mesmerising waterfall effect. Delivers 50% more floral fragrance with significantly less smoke — luxury you can see and smell.
+          - generic [ref=e53]:
+            - generic [ref=e54]: Charcoal-free, zero harmful chemicals
+            - generic [ref=e55]: Luxury rose fragrance with enhanced diffusion
+          - paragraph [ref=e56]: "Ingredients: Natural botanical base, natural gum binders, pure rose essential oil, plant extracts"
+          - generic [ref=e57]:
+            - link "Buy on Amazon" [ref=e58] [cursor=pointer]:
+              - /url: https://www.amazon.in
+            - link "Instagram" [ref=e59] [cursor=pointer]:
+              - /url: https://www.instagram.com
+      - generic [ref=e60]:
+        - heading "Bambooless Sticks" [level=2] [ref=e61]: Bambooless Sticks
+        - generic [ref=e64]:
+          - generic [ref=e66]: 🌿
+          - heading "Lavender Bambooless Sticks" [level=3] [ref=e67]
+          - paragraph [ref=e68]: Pure botanical incense sticks — no bamboo core, no charcoal, no synthetic binders. Made entirely from high-quality natural botanicals and lavender. Burns clean with 50% more fragrance, almost zero smoke, and zero waste.
+          - generic [ref=e69]:
+            - generic [ref=e70]: No bamboo, no charcoal — pure botanicals only
+            - generic [ref=e71]: 50% more lavender fragrance diffusion
+          - paragraph [ref=e72]: "Ingredients: Natural botanical base, lavender flowers, natural plant-based binders, pure lavender essential oil"
+          - generic [ref=e73]:
+            - link "Buy on Amazon" [ref=e74] [cursor=pointer]:
+              - /url: https://www.amazon.in
+            - link "Instagram" [ref=e75] [cursor=pointer]:
+              - /url: https://www.instagram.com
+      - generic [ref=e76]:
+        - heading "Candles" [level=2] [ref=e77]: Candles
+        - generic [ref=e80]:
+          - generic [ref=e82]: 🕯️
+          - heading "Vanilla Soy Wax Candle" [level=3] [ref=e83]
+          - paragraph [ref=e84]: Hand-poured luxury soy wax candle infused with pure vanilla. Clean-burning, non-toxic, and long-lasting. Packaged in 100% plastic-free, recyclable glass — because luxury should never cost the earth.
+          - generic [ref=e85]:
+            - generic [ref=e86]: Clean burn — no soot, no toxins
+            - generic [ref=e87]: 40+ hours burn time
+          - paragraph [ref=e88]: "Ingredients: 100% natural soy wax, pure vanilla essential oil, lead-free cotton wick, recycled glass jar"
+          - generic [ref=e89]:
+            - link "Buy on Amazon" [ref=e90] [cursor=pointer]:
+              - /url: https://www.amazon.in
+            - link "Instagram" [ref=e91] [cursor=pointer]:
+              - /url: https://www.instagram.com
+      - generic [ref=e92]:
+        - heading "Diffuser Oils" [level=2] [ref=e93]: Diffuser Oils
+        - generic [ref=e96]:
+          - generic [ref=e98]: 💧
+          - heading "Eucalyptus Diffuser Oil" [level=3] [ref=e99]
+          - paragraph [ref=e100]: Pure, undiluted eucalyptus essential oil sourced ethically for ultrasonic and reed diffusers. Its crisp, refreshing aroma clears the mind and energises any space. Packaged in plastic-free glass with eco-conscious design.
+          - generic [ref=e101]:
+            - generic [ref=e102]: 100% pure, undiluted essential oil
+            - generic [ref=e103]: Naturally clears sinuses and refreshes air
+          - paragraph [ref=e104]: "Ingredients: 100% pure eucalyptus globulus essential oil (steam-distilled)"
+          - generic [ref=e105]:
+            - link "Buy on Amazon" [ref=e106] [cursor=pointer]:
+              - /url: https://www.amazon.in
+            - link "Instagram" [ref=e107] [cursor=pointer]:
+              - /url: https://www.instagram.com
+      - generic [ref=e108]:
+        - heading "Reed Diffusers" [level=2] [ref=e109]: Reed Diffusers
+        - generic [ref=e112]:
+          - generic [ref=e114]: 🏺
+          - heading "Jasmine Reed Diffuser" [level=3] [ref=e115]
+          - paragraph [ref=e116]: A luxury reed diffuser capturing the intoxicating essence of jasmine. Flame-free, continuous fragrance for 6-8 weeks. Housed in elegant, 100% plastic-free packaging — a statement piece for homes that value beauty and responsibility.
+          - generic [ref=e117]:
+            - generic [ref=e118]: Flame-free 24/7 luxury fragrance
+            - generic [ref=e119]: 50% more scent diffusion
+          - paragraph [ref=e120]: "Ingredients: Premium jasmine fragrance oil, natural rattan reeds, recycled glass bottle"
+          - generic [ref=e121]:
+            - link "Buy on Amazon" [ref=e122] [cursor=pointer]:
+              - /url: https://www.amazon.in
+            - link "Instagram" [ref=e123] [cursor=pointer]:
+              - /url: https://www.instagram.com
+      - generic [ref=e124]:
+        - heading "Camphor" [level=2] [ref=e125]: Camphor
+        - generic [ref=e128]:
+          - generic [ref=e130]: ✨
+          - heading "Pure Kapoor (Camphor)" [level=3] [ref=e131]
+          - paragraph [ref=e132]: Natural, food-grade kapoor for sacred pooja rituals and aarti. Derived from the camphor laurel tree, it burns bright and clean — a pure flame for pure devotion. Packaged plastic-free in keeping with SEWA's commitment to sustainability.
+          - generic [ref=e133]:
+            - generic [ref=e134]: Pure natural camphor — no synthetics
+            - generic [ref=e135]: Clean, residue-free burn
+          - paragraph [ref=e136]: "Ingredients: 100% natural camphor (Cinnamomum camphora) — no synthetic additives"
+          - generic [ref=e137]:
+            - link "Buy on Amazon" [ref=e138] [cursor=pointer]:
+              - /url: https://www.amazon.in
+            - link "Instagram" [ref=e139] [cursor=pointer]:
+              - /url: https://www.instagram.com
+  - contentinfo [ref=e140]:
+    - generic [ref=e141]:
+      - generic [ref=e142]:
+        - heading "SEWA" [level=3] [ref=e143]
+        - paragraph [ref=e144]: Sacred fragrances for your space. Premium incense, candles, diffusers, and more — crafted to elevate every moment.
+      - generic [ref=e145]:
+        - heading "Quick Links" [level=4] [ref=e146]
+        - generic [ref=e147]:
+          - link "Products" [ref=e148] [cursor=pointer]:
+            - /url: /products
+          - link "Blog" [ref=e149] [cursor=pointer]:
+            - /url: /blog
+          - link "Amazon Store" [ref=e150] [cursor=pointer]:
+            - /url: https://www.amazon.in
+      - generic [ref=e151]:
+        - heading "Find Us On" [level=4] [ref=e152]
+        - generic [ref=e153]:
+          - generic [ref=e154]: Amazon
+          - generic [ref=e155]: Blinkit
+          - generic [ref=e156]: Zepto
+          - generic [ref=e157]: Ajio
+          - generic [ref=e158]: Reliance
+    - generic [ref=e159]: © 2026 SEWA. All rights reserved.
+  - button "Open Next.js Dev Tools" [ref=e165] [cursor=pointer]:
+    - img [ref=e166]

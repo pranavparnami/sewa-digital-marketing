@@ -1,0 +1,302 @@
+{
+  "brand": "SEWA",
+  "tagline": "Burn Luxury. Breathe Responsibility.",
+  "version": "1.0",
+  "updatedAt": "2026-06-04",
+
+  "creativeTeam": {
+    "structure": [
+      {
+        "role": "Creative Director",
+        "type": "Full-time or Senior Freelance",
+        "responsibilities": [
+          "Own the SEWA visual identity end-to-end",
+          "Review and approve all creative output before publishing",
+          "Set the creative vision for campaigns, shoots, and packaging",
+          "Manage the creative team and external vendors",
+          "Ensure consistency across all platforms (Instagram, Amazon, website, packaging)",
+          "Present creative direction to founder monthly"
+        ],
+        "idealProfile": "8+ years in luxury/D2C branding. Portfolio showing campaign-level thinking. Experience with Indian luxury or wellness brands preferred.",
+        "budget": "₹1.5L–₹3L/month"
+      },
+      {
+        "role": "Content Creator / Photographer",
+        "type": "Full-time",
+        "responsibilities": [
+          "Shoot daily Instagram content (flat-lays, product shots, lifestyle)",
+          "Create Reels and short-form video content (3–4 per week)",
+          "Style product shoots according to brand guidelines",
+          "Maintain a shot bank of 50+ ready-to-use images at all times",
+          "Capture BTS content of artisans and production process",
+          "Organize monthly campaign shoots"
+        ],
+        "idealProfile": "3+ years product/food/lifestyle photography. Proficient in natural light photography. Reel/video editing skills (CapCut/Premiere Pro).",
+        "budget": "₹50K–₹80K/month"
+      },
+      {
+        "role": "Graphic Designer",
+        "type": "Full-time",
+        "responsibilities": [
+          "Design Instagram carousels, stories, and feed templates",
+          "Create Amazon A+ Content and listing images",
+          "Design packaging layouts and dielines",
+          "Create email templates and website banners",
+          "Design festival campaign assets",
+          "Maintain Figma design system and asset library"
+        ],
+        "idealProfile": "3+ years D2C/brand design. Expert in Figma, Illustrator, Photoshop. Understanding of print production for packaging.",
+        "budget": "₹40K–₹70K/month"
+      },
+      {
+        "role": "Video Editor / Motion Designer",
+        "type": "Full-time or Retainer",
+        "responsibilities": [
+          "Edit Reels (4 per week) with pacing, transitions, and text overlays",
+          "Create motion graphics for stories and ads",
+          "Edit long-form YouTube content (1 per month)",
+          "Create product demo videos for Amazon listings",
+          "Design animated logo intros and brand transitions",
+          "Optimize videos per platform (IG 9:16, YouTube 16:9, Amazon 1:1)"
+        ],
+        "idealProfile": "3+ years in D2C/agency video editing. Expert in Premiere Pro, After Effects, CapCut. Reel specialist.",
+        "budget": "₹40K–₹70K/month"
+      },
+      {
+        "role": "Copywriter",
+        "type": "Full-time or Senior Freelance",
+        "responsibilities": [
+          "Write Instagram captions, hashtags, and story text",
+          "Write product descriptions for Amazon and website",
+          "Write blog posts (2 per week minimum)",
+          "Write email sequences and WhatsApp broadcast copy",
+          "Develop campaign taglines and creative concepts",
+          "Maintain brand voice consistency across all platforms"
+        ],
+        "idealProfile": "3+ years D2C/lifestyle copywriting. Portfolio showing range: short-form social to long-form blog. Understanding of SEO.",
+        "budget": "₹40K–₹70K/month"
+      },
+      {
+        "role": "Influencer & Community Manager",
+        "type": "Full-time",
+        "responsibilities": [
+          "Identify and onboard 30+ micro-influencers monthly",
+          "Manage influencer relationships, briefs, and deliverables",
+          "Run the #SEWAFamily ambassador program",
+          "Respond to all comments and DMs within 1 hour",
+          "Manage UGC campaigns and reposting",
+          "Build and nurture WhatsApp community"
+        ],
+        "idealProfile": "2+ years influencer marketing or community management. Strong network in wellness/lifestyle niche.",
+        "budget": "₹35K–₹55K/month"
+      }
+    ],
+    "totalTeamBudget": "₹3.5L–₹6.4L/month (6 people)",
+    "freelancerAlternative": "₹1.5L–₹2.5L/month — Creative Director (retainer) + freelance photographer, designer, editor, writer",
+    "agencies": [
+      { "name": "Schbang", "specialty": "Full-service creative + influencer", "budget": "₹3L–₹5L/month retainer" },
+      { "name": "SoCheers", "specialty": "D2C social media + content", "budget": "₹2L–₹4L/month" },
+      { "name": "The Small Big Idea", "specialty": "Premium branding + packaging", "budget": "₹2L–₹5L/project" }
+    ]
+  },
+
+  "visualIdentity": {
+    "colorSystem": {
+      "primary": { "name": "SEWA Amber", "hex": "#B45309", "usage": "Logo, CTAs, accents, primary brand color" },
+      "secondary": { "name": "Warm Sandstone", "hex": "#D4A574", "usage": "Backgrounds, secondary accents, packaging accents" },
+      "neutral": {
+        "cream": { "hex": "#FAF7F2", "usage": "Main background, website, packaging base" },
+        "stone": { "hex": "#1C1917", "usage": "Primary text, dark elements" },
+        "warmGray": { "hex": "#78716C", "usage": "Secondary text, captions" },
+        "lightBeige": { "hex": "#F5EEE6", "usage": "Alternate background" }
+      },
+      "functional": {
+        "success": { "hex": "#166534", "usage": "Certifications, trust signals" },
+        "accent": { "hex": "#8B6914", "usage": "Gold accents, premium indicators" }
+      }
+    },
+    "typography": {
+      "headings": { "family": "Playfair Display", "fallback": "Georgia, serif", "usage": "H1, H2, hero text, logo companion" },
+      "body": { "family": "Inter", "fallback": "system-ui, sans-serif", "usage": "Body text, captions, product descriptions" },
+      "accent": { "family": "Cormorant Garamond", "fallback": "serif", "usage": "Quote cards, testimonial highlights, luxury accents" }
+    },
+    "photographyStyle": {
+      "mood": "Warm, intimate, editorial luxury. Think Architectural Digest meets Kinfolk, with Indian soul.",
+      "lighting": "Natural daylight preferred. Golden hour for lifestyle. Soft diffused window light for flat-lays. No harsh studio lighting. No flash.",
+      "composition": "Negative space is your friend. Rule of thirds. 40% empty space minimum in feed posts. Overhead for flat-lays. Eye-level for lifestyle.",
+      "colorPalette": "Dominant: creams, warm whites, sandstone. Accents: amber, terracotta, dark wood, muted sage green. Occasional: brass/gold metallic. Never: neon, bright white, cool blue.",
+      "tone": "Aspirational but warm. Luxurious but never cold. Indian heritage but modern. Serene but alive."
+    },
+    "logoUsage": {
+      "primary": "SEWA logotype in Amber (#B45309) on cream background",
+      "white": "SEWA logotype in white on amber/dark backgrounds",
+      "clearSpace": "Minimum padding = height of the letter 'S' on all sides",
+      "minimumSize": "Print: 20mm wide. Digital: 120px wide.",
+      "donts": ["Don't stretch", "Don't change colors", "Don't add effects", "Don't place on busy backgrounds", "Don't rotate"]
+    },
+    "iconography": {
+      "style": "Line icons, 2px stroke, rounded caps. Amber (#B45309) or Sandstone (#D4A574).",
+      "usage": "USP cards, feature highlights, certification badges, category navigation"
+    }
+  },
+
+  "contentCreationPlaybook": {
+    "instagramFeed": {
+      "gridStrategy": "Checkerboard pattern: Product shot → Lifestyle → Product shot → Quote/Educational → Product shot → UGC → repeat",
+      "postSpecs": {
+        "single": { "dimensions": "1080x1080px", "format": "JPG/PNG", "maxSize": "8MB" },
+        "carousel": { "dimensions": "1080x1350px (portrait)", "slides": "5–10 slides", "slide1": "Hook title + brand", "slide2-n-1": "Content slides", "slideN": "CTA + product link" },
+        "story": { "dimensions": "1080x1920px", "duration": "15 seconds max per frame", "format": "JPG/PNG or MP4" }
+      },
+      "contentMix": {
+        "educational": { "percentage": 30, "examples": ["Toxin comparison carousel", "What's in your incense?", "Plastic-free living tips"] },
+        "productShowcase": { "percentage": 25, "examples": ["Hero product shots", "New launch reveal", "Behind-the-scenes crafting"] },
+        "lifestyleEmotional": { "percentage": 25, "examples": ["Morning rituals", "Pooja setups", "Home sanctuary tours"] },
+        "socialProof": { "percentage": 10, "examples": ["Customer reviews", "UGC reposts", "Influencer features"] },
+        "promotional": { "percentage": 10, "examples": ["Sales announcements", "Festival offers", "Limited drops"] }
+      },
+      "captionFormula": "Hook (first line grabs attention) → 2-3 lines of value/context → CTA (ask a question or direct to link) → Hashtags (5 relevant + 3 branded, hidden in first comment or after 3 line breaks)",
+      "hashtagStrategy": "5 broad reach (500K+ posts) + 5 niche (10K-500K posts) + 3 branded (#SEWA, #SEWAincense, #BurnLuxuryBreatheResponsibility)"
+    },
+
+    "reels": {
+      "frequency": "4 Reels/week minimum",
+      "specs": { "dimensions": "1080x1920px (9:16)", "maxDuration": "90 seconds (15–30s ideal)", "format": "MP4, H.264", "framerate": "30fps (60fps for slow-mo)", "audio": "Original or trending sounds" },
+      "hookRule": "First 2 seconds must grab attention: text overlay, pattern interrupt, or visual surprise. Reels without a 2-second hook lose 70% of viewers.",
+      "types": [
+        { "name": "Clean Burn Test", "duration": "15 sec", "format": "Split screen: regular incense (heavy smoke, grey tones) vs SEWA (minimal smoke, warm glow). Text overlays: 'Regular' → 'SEWA Charcoal-Free' → '50% More Fragrance' → 'Less Smoke'. End: product shot + CTA.", "audio": "Trending clean beat or calm instrumental" },
+        { "name": "ASMR Unboxing", "duration": "20 sec", "format": "No talking. No music. Only sounds: kraft paper rustle → box opening → incense reveal → match strike → gentle blow → smoke swirl. Close-up macro. End: quiet logo fade.", "audio": "Original audio only" },
+        { "name": "Meet the Artisan", "duration": "15–20 sec", "format": "Close-up hands crafting. Pull focus to artisan's face (smiling, natural). Text overlay: her name, her craft, how long she's been with SEWA. End: product she made + 'Handcrafted by [Name]'.", "audio": "Warm acoustic instrumental" },
+        { "name": "Morning Ritual", "duration": "15 sec", "format": "POV: waking up → reaching for incense → lighting → deep breath → smile. Fast cuts, warm morning light. Text: 'Your morning ritual, elevated.'", "audio": "Lo-fi or soft Indian classical" },
+        { "name": "Transformation", "duration": "15 sec", "format": "Shot 1: stressed face, cluttered desk. Shot 2: lighting SEWA incense, deep breath. Shot 3: calm face, serene space. Text: 'This is your sign.'", "audio": "Trending transformation sound" }
+      ]
+    },
+
+    "stories": {
+      "dailyFrequency": "3–5 story frames/day",
+      "interactiveElements": ["Polls (charcoal vs charcoal-free)", "Quizzes", "Question stickers", "Countdown timers for launches/sales", "Link stickers to products/blog/Amazon"],
+      "templates": [
+        { "name": "Daily Poll", "frame": 1, "example": "Morning ritual or evening unwind? Vote now! Background: warm amber gradient + SEWA logo watermarked" },
+        { "name": "Behind the Scenes", "frame": 1, "example": "Photo/video of artisans at work, production process, or packaging station. Overlay: 'Crafted today for you'" },
+        { "name": "Flash Deal", "frame": 1, "example": "Countdown sticker + '20% off next 2 hours — tap to shop'. Clean design, urgency-driven" },
+        { "name": "Customer Love", "frame": 1, "example": "Screenshot of 5-star review or repost customer story. Text overlay: 'You made our day 💛'" }
+      ]
+    },
+
+    "longFormVideo": {
+      "youtubeStrategy": "1 long-form video per month (8–15 minutes). Documentary style.",
+      "topics": [
+        "The Making of SEWA — Full documentary (15 min): temple to incense journey",
+        "Meet Every Artisan — 8 profiles in one film (12 min)",
+        "Incense Masterclass — How to choose, burn, and pair fragrances (10 min)",
+        "SEWA vs The Industry — Why charcoal-free matters (8 min)"
+      ],
+      "specs": { "dimensions": "1920x1080 (16:9)", "format": "MP4, H.264", "framerate": "24fps (cinematic)", "thumbnails": "Custom designed, face + product, bold text" }
+    },
+
+    "amazonAplus": {
+      "modules": [
+        { "name": "Brand Story", "content": "Full-width hero image + brand mission statement + 3 USP cards with icons" },
+        { "name": "Product Comparison", "content": "Chart: SEWA vs Regular Incense — charcoal, toxins, phthalates, smoke, fragrance diffusion" },
+        { "name": "Ingredients Spotlight", "content": "Close-up photography of raw materials with benefit callouts" },
+        { "name": "Usage Guide", "content": "Step-by-step visual guide: how to light, burn time, safety tips" },
+        { "name": "Certifications", "content": "Badge row: Charcoal-Free, Toxin-Free, Phthalate-Free, Women-Made, Plastic-Free" }
+      ],
+      "specs": "970x300px (hero), 970x600px (modules). JPG/PNG. All text must be in the image (Amazon doesn't render HTML text in A+)."
+    }
+  },
+
+  "packagingDesignBriefs": {
+    "universalGuidelines": {
+      "materials": "Kraft paper (FSC-certified, 300–350 GSM) for outer box. Soy-based ink printing. Natural jute twine for bundling. No plastic, no lamination, no cellophane.",
+      "construction": "Magnetic flap closure (no glue). Tear-away top transforms box into display stand. Slide-out inner tray catches ash during use — dual utility.",
+      "printing": "1–2 color screen print or digital print. Amber (#B45309) + dark brown (#1C1917) on kraft. Minimalist — brand name + product name + key USP only on front.",
+      "interior": "Inner lid: artisan profile printed — 'Handcrafted by [Name] in [City]. She has been with SEWA for [X] years.' Rotate 10 profiles across production batches.",
+      "size": "Compact. No oversized boxes. Box height = product height + 5mm padding only.",
+      "finishing": "Matte finish. No gloss. No foil (except Diwali special edition — brass/gold foil). Embossed SEWA logo on lid.",
+      "sustainabilityFeatures": [
+        "Seed-paper belly band: remove, soak in water, plant — grows Tulsi or Basil",
+        "Box base perforation: tear to create incense ash tray",
+        "QR code on base: scan to see artisan video (30-second message)",
+        "100% compostable within 90 days in home compost"
+      ]
+    },
+    "productSpecific": [
+      {
+        "product": "Incense Sticks (Sandalwood / Nag Champa — 100 sticks)",
+        "boxStyle": "Vertical sliding drawer box",
+        "dimensions": "240mm × 60mm × 30mm",
+        "labelArt": "Amber band across middle with 'SEWA' logotype. Product name in Garamond italic below. Small icon: incense stick outline with '100 Sticks | Charcoal-Free'",
+        "innerDivider": "Natural jute cord wrapped around stick bundle. Handwritten-style tag: fragrance name + burn time (45 min)"
+      },
+      {
+        "product": "Incense Cones (Rose — 50 cones)",
+        "boxStyle": "Hexagonal tube with magnetic lid",
+        "dimensions": "80mm diameter × 120mm height",
+        "labelArt": "Minimalist amber ring around tube circumference. 'SEWA' embossed on lid. Product name on body. Backflow-compatible icon.",
+        "inner": "Cones nested in recycled paper honeycomb. Each cone visible through die-cut window on tube body."
+      },
+      {
+        "product": "Bambooless Sticks (Lavender — 50 sticks)",
+        "boxStyle": "Slim matchbox-style sliding tray",
+        "dimensions": "200mm × 45mm × 18mm",
+        "labelArt": "Vertical amber stripe on kraft. 'SEWA' top. 'Bambooless' as accent label. 'Zero Waste' badge.",
+        "inner": "Sticks nested in molded recycled paper pulp tray. Compostable tissue wrap."
+      },
+      {
+        "product": "Soy Wax Candle (Vanilla — 200g)",
+        "boxStyle": "Cube box with magnetic flap + ribbon pull",
+        "dimensions": "90mm × 90mm × 100mm",
+        "labelArt": "Amber band with product name. 'SEWA' embossed on lid. Burn time badge: '40+ hours'. Soy wax icon.",
+        "inner": "Candle jar wrapped in seed-paper belly band. Jar: recycled amber glass, reusable. Cotton wick visible through glass."
+      },
+      {
+        "product": "Diffuser Oil (Eucalyptus — 30ml)",
+        "boxStyle": "Pillow box with tear strip",
+        "dimensions": "120mm × 40mm × 25mm",
+        "labelArt": "Minimalist. Single amber drop icon. Product name below. '100% Pure Essential Oil' label. Dropper cap visible through circular window.",
+        "inner": "Bottle secured in molded pulp insert. Dropper cap pre-attached."
+      },
+      {
+        "product": "Reed Diffuser (Jasmine — 100ml)",
+        "boxStyle": "Tall rectangular box with magnetic closure",
+        "dimensions": "70mm × 70mm × 210mm",
+        "labelArt": "Vertical amber band on front. 'SEWA' at top. Product name + '6–8 Weeks Continuous Fragrance' below. Rattan reeds visible through side window.",
+        "inner": "Glass bottle + 6 natural rattan reeds bundled with jute twine. Flip instruction card included."
+      },
+      {
+        "product": "Pure Kapoor Camphor (250g)",
+        "boxStyle": "Flat square tin (reusable) with slipcase",
+        "dimensions": "100mm × 100mm × 40mm",
+        "labelArt": "Traditional but minimalist. Amber + dark brown. 'Pure Kapoor' in bold. 'Food Grade • Pooja Grade' badge. Camphor tree illustration line art.",
+        "inner": "Camphor tablets in compostable paper pouch inside tin. Tin reusable for storage."
+      },
+      {
+        "product": "Gift Box / Hamper",
+        "boxStyle": "Large magnetic closure presentation box",
+        "dimensions": "300mm × 220mm × 70mm",
+        "labelArt": "Premium: brass/gold foil 'SEWA' on lid. Amber ribbon pull. 'Curated for you' tag. Diwali edition: gold diya motif. Wedding edition: customizable couple name.",
+        "inner": "Nested compartments: incense holder + 2 incense packs + 1 candle + camphor + handwritten note card. All compartments lined with seed paper."
+      }
+    ]
+  },
+
+  "creativeReviewWorkflow": {
+    "stages": [
+      { "stage": 1, "name": "Brief", "owner": "Marketing Lead", "timeline": "Monday 10 AM — weekly content brief for the week ahead", "output": "Content calendar with themes, formats, and deadlines" },
+      { "stage": 2, "name": "Create", "owner": "Content Creator + Designer", "timeline": "Monday–Wednesday", "output": "First drafts of all week's content (images, reels, carousels, copy)" },
+      { "stage": 3, "name": "Review", "owner": "Creative Director", "timeline": "Thursday 2 PM — creative review meeting", "output": "Annotated feedback on each asset. Approve / Revise / Reject" },
+      { "stage": 4, "name": "Revise", "owner": "Content Creator + Designer", "timeline": "Thursday–Friday", "output": "Final versions incorporating feedback" },
+      { "stage": 5, "name": "Final Approval", "owner": "Founder / Creative Director", "timeline": "Friday 5 PM", "output": "Signed-off content for the following week" },
+      { "stage": 6, "name": "Schedule & Post", "owner": "Community Manager", "timeline": "As per calendar", "output": "Content published. Agent posts approved content to Instagram" }
+    ],
+    "tools": ["Figma (design + review)", "Notion (content calendar + briefs)", "Google Drive (asset storage)", "Frame.io (video review)", "Slack (daily async communication)"],
+    "feedbackRules": [
+      "Be specific: 'Move CTA 20px up' not 'Make it better'",
+      "Reference brand guidelines: 'Use Amber #B45309 not Sandstone here'",
+      "One round of revisions maximum — clear brief = fewer revisions",
+      "Video feedback: timestamp-specific comments in Frame.io",
+      "Friday 5 PM is the hard deadline. Late = pushed to next week"
+    ]
+  }
+}

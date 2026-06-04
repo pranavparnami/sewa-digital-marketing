@@ -1,5 +1,5 @@
 import { products, categories } from "@/lib/products";
-import Link from "next/link";
+import Image from "next/image";
 
 export default function ProductsPage() {
   return (
@@ -34,8 +34,15 @@ export default function ProductsPage() {
                   key={product.slug}
                   className="group bg-white rounded-2xl border border-stone-200 p-6 hover:shadow-lg hover:border-amber-200 transition-all"
                 >
-                  <div className="w-full h-48 bg-amber-50 rounded-xl mb-5 flex items-center justify-center overflow-hidden">
-                    <span className="text-4xl opacity-30 group-hover:opacity-50 transition-opacity">
+                  <div className="w-full h-48 bg-gradient-to-br from-amber-100/30 to-stone-100 rounded-xl mb-5 flex items-center justify-center overflow-hidden relative">
+                    <Image
+                      src={getProductImage(product.category)}
+                      alt={product.name}
+                      fill
+                      className="object-cover opacity-60 group-hover:opacity-80 group-hover:scale-105 transition-all"
+                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                    />
+                    <span className="text-4xl opacity-30 group-hover:opacity-50 transition-opacity relative z-10">
                       {categoryIcons[product.category]}
                     </span>
                   </div>
@@ -97,3 +104,16 @@ const categoryIcons: Record<string, string> = {
   "Reed Diffusers": "🏺",
   Camphor: "✨",
 };
+
+function getProductImage(category: string): string {
+  const map: Record<string, string> = {
+    "Incense Sticks": "/products/incense-sticks.jpg",
+    Cones: "/products/cones.jpg",
+    "Bambooless Sticks": "/products/bambooless-sticks.jpg",
+    Candles: "/products/candle.jpg",
+    "Diffuser Oils": "/products/diffuser-oil.jpg",
+    "Reed Diffusers": "/products/reed-diffuser.jpg",
+    Camphor: "/products/camphor.jpg",
+  };
+  return map[category] || "/products/incense-sticks.jpg";
+}

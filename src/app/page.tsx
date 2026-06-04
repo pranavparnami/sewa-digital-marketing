@@ -1,5 +1,6 @@
 import { categories } from "@/lib/products";
 import Link from "next/link";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -112,11 +113,26 @@ export default function Home() {
                 href={`/products#${card.name.toLowerCase().replace(/\s+/g, "-")}`}
                 className="group relative overflow-hidden rounded-2xl border border-stone-200 hover:border-amber-300 hover:shadow-lg transition-all"
               >
-                <div className="aspect-[4/3] bg-gradient-to-br from-amber-100/50 to-stone-100 flex items-center justify-center">
-                  <span className="text-5xl opacity-40 group-hover:opacity-60 group-hover:scale-110 transition-all">
-                    {categoryIcons[card.name]}
-                  </span>
+              <div className="aspect-[4/3] bg-gradient-to-br from-amber-100/50 to-stone-100 flex items-center justify-center relative overflow-hidden">
+                <div className="absolute inset-0 opacity-20 group-hover:opacity-30 transition-opacity">
+                  {categoryImages[card.name] ? (
+                    <Image
+                      src={categoryImages[card.name]}
+                      alt={card.name}
+                      fill
+                      className="object-cover"
+                      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+                    />
+                  ) : (
+                    <span className="text-5xl absolute inset-0 flex items-center justify-center">
+                      {categoryIcons[card.name]}
+                    </span>
+                  )}
                 </div>
+                <span className="text-5xl relative z-10 group-hover:scale-110 transition-transform">
+                  {categoryIcons[card.name]}
+                </span>
+              </div>
                 <div className="p-4">
                   <h3 className="font-semibold text-stone-900 group-hover:text-amber-800 transition-colors">
                     {card.name}
@@ -255,6 +271,16 @@ export default function Home() {
 const categoryIcons: Record<string, string> = {
   "Incense Sticks": "🪔", Cones: "🔺", "Bambooless Sticks": "🌿",
   Candles: "🕯️", "Diffuser Oils": "💧", "Reed Diffusers": "🏺", Camphor: "✨",
+};
+
+const categoryImages: Record<string, string> = {
+  "Incense Sticks": "/products/incense-sticks.jpg",
+  Cones: "/products/cones.jpg",
+  "Bambooless Sticks": "/products/bambooless-sticks.jpg",
+  Candles: "/products/candle.jpg",
+  "Diffuser Oils": "/products/diffuser-oil.jpg",
+  "Reed Diffusers": "/products/reed-diffuser.jpg",
+  Camphor: "/products/camphor.jpg",
 };
 
 const categoryCards = [

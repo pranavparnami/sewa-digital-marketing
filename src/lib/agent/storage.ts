@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import type { ContentItem, AgentConfig, AgentLogEntry } from "./types";
 
-const DATA_DIR = path.join(process.cwd(), ".agent-data");
+const DATA_DIR = process.env.VERCEL ? "/tmp/.agent-data" : path.join(process.cwd(), ".agent-data");
 
 function ensureDir() {
   if (!fs.existsSync(DATA_DIR)) {

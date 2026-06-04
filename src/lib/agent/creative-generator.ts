@@ -288,7 +288,7 @@ export async function generateFromPrompt(customPrompt: string, title: string, ty
 function saveCreative(creative: CreativeItem): void {
   const fs = require("fs");
   const path = require("path");
-  const DATA_DIR = path.join(process.cwd(), ".agent-data");
+  const DATA_DIR = process.env.VERCEL ? "/tmp/.agent-data" : path.join(process.cwd(), ".agent-data");
   if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 
   const filepath = path.join(DATA_DIR, "creatives.json");
@@ -303,7 +303,8 @@ function saveCreative(creative: CreativeItem): void {
 export function getCreatives(): CreativeItem[] {
   const fs = require("fs");
   const path = require("path");
-  const filepath = path.join(process.cwd(), ".agent-data", "creatives.json");
+  const DATA_DIR = process.env.VERCEL ? "/tmp/.agent-data" : path.join(process.cwd(), ".agent-data");
+  const filepath = path.join(DATA_DIR, "creatives.json");
   if (!fs.existsSync(filepath)) return [];
   return JSON.parse(fs.readFileSync(filepath, "utf-8"));
 }
